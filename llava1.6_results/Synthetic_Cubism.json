@@ -1,0 +1,1528 @@
+{
+  "folder_name": "Synthetic_Cubism",
+  "processed_date": "2025-12-31 14:53:36",
+  "model": "llava-v1.6-mistral-7b-hf",
+  "processing_mode": "batch_8",
+  "total_images": 216,
+  "successful": 216,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "processing_time_seconds": 501.32,
+  "processing_time_formatted": "0:08:21",
+  "avg_time_per_image": 2.32,
+  "images_per_second": 0.431,
+  "analyses": [
+    {
+      "image_name": "ad-reinhardt_collage-1940.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and busy, with a collage of various objects and colors.",
+      "subject_description": "The main subjects of the picture are various objects and textures, including fabrics, papers, and possibly other materials. The most important interaction in the picture is the juxtaposition of these objects, creating a sense of depth and complexity.",
+      "striking_details": "fabric, colors, shapes, patterns, textures",
+      "status": "success"
+    },
+    {
+      "image_name": "ad-reinhardt_newsprint-collage-1940.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of various objects and colors.",
+      "subject_description": "The main subjects in this picture are various objects and figures, possibly representing a cityscape or a collage of different scenes. The most important interaction in the picture is the juxtaposition of these elements, creating a sense of depth and complexity.",
+      "striking_details": "chairs, buildings, people, trees, books",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_aria-de-bach-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a book, a guitar, and a piece of paper. The most important interaction is the book lying on top of the guitar, with the piece of paper placed on top of the book.",
+      "striking_details": "book, guitar, paper, pencil, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_bottle-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are a pipe, a wine glass, and a book. The most important interaction is the pipe, which is placed in front of the wine glass and the book, creating a sense of depth and perspective.",
+      "striking_details": "frame, paper, glass, pipe",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_bottle-of-rum-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disorder and randomness.",
+      "subject_description": "The main subjects in the picture are various objects and papers. The most important interaction is the overlapping and intertwining of the objects and papers, creating a sense of depth and complexity.",
+      "striking_details": "paper, polka dots, text, collage, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_checkerboard-tivoli-cinema-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of different elements and text.",
+      "subject_description": "The main subjects in this picture are a torn ticket, a newspaper, and a piece of paper. The most important interaction is the overlapping and intertwining of these objects, creating a sense of complexity and history.",
+      "striking_details": "Ticket, Paper, Paint, Color, Abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_clarinet-guitar-and-compotier-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are a guitar, a tie, and a piece of paper. The most important interaction is the guitar playing the tie, which is depicted in a cubist style.",
+      "striking_details": "The image is a collage, featuring a variety of objects such as a guitar, a tie, a suit, and a tie clip.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_fruit-dish-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a table, a cup, and a vase. The most important interaction is the placement of the cup and the vase on the table, creating a balanced composition.",
+      "striking_details": "cup, bowl, wine glass, grapes, table",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_glass-and-card.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of different shapes and colors creating a sense of disorder and complexity.",
+      "subject_description": "The main subjects in the picture are a bottle, a bowl, and a book. The most important interaction is the book lying on the table, with the bottle and the bowl placed on top of it.",
+      "striking_details": "wall, painting, brush, canvas, art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_glass-carafe-and-newspapers-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with various papers and objects scattered around.",
+      "subject_description": "The main subjects in this picture are various pieces of paper, including a book, a magazine, and a newspaper. The most important interaction in the picture is the overlapping and arrangement of these papers, creating a sense of depth and complexity.",
+      "striking_details": "paper, text, magazine, wood, black",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_glass-pipe-and-newspaper-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are a person holding a hammer and a piece of paper. The most important interaction is the person using the hammer to hit the paper.",
+      "striking_details": "brush, canvas, paint, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_guitar-and-sheet-music-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are a guitar, a book, and a piece of paper. The most important interaction in the picture is the guitar's position in the center, drawing the viewer's attention.",
+      "striking_details": "guitar, paper, scissors, book, table",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_guitar-and-sheet-music-on-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are geometric shapes and abstract forms. The most important interaction is the overlapping and intersecting of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "geometric, abstract, shapes, colors, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_guitar-program-statue-d-epouvante-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a guitar, a violin, and a book. The most important interaction is the overlapping of the guitar and the violin, creating a sense of harmony and connection between the two instruments.",
+      "striking_details": "guitar, paper, scissors, book, circle",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_man-with-a-guitar-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are geometric shapes and lines. The most important interaction is the overlapping and intersecting of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "abstract, shapes, colors, patterns, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_mandolin-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and textures.",
+      "subject_description": "The main subjects in this picture are a stack of papers, a book, and a pipe. The most important interaction is the pipe resting on top of the stack of papers.",
+      "striking_details": "paper, book, magazine, newspaper, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_newspaper-bottle-packet-of-tobacco-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with various torn and crumpled pieces of paper scattered around.",
+      "subject_description": "The main subjects in this picture are various pieces of paper, including a torn-up banknote, which are scattered and overlapping. The most important interaction in this picture is the juxtaposition of the torn-up banknote with the other pieces of paper, creating a sense of disarray and destruction.",
+      "striking_details": "paper, heart, envelope, book, drawing",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_pedestal-table-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are various objects and text, including a book with the word \"LECHOD\" on it. The most important interaction in the picture is the arrangement of these objects, creating a sense of depth and complexity.",
+      "striking_details": "art, paper, book, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-on-a-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on the use of color. The most important interaction in the picture is the interplay between the shapes and the use of contrasting colors to create a sense of depth and dimension.",
+      "striking_details": "The image is a cubist painting, featuring geometric shapes, abstract forms, and a variety of colors. It is a still life composition, with objects such as a bottle, a bowl, and a vase. The painting is characterized by its use of bold lines and a fragmented, broken-up style.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-on-a-table-with-gillette-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a pair of scissors and a piece of wood. The most important interaction in the picture is the scissors cutting the wood.",
+      "striking_details": "wood, paper, ink, scissors",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-a-guitar-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are various objects and shapes, including a bowl, a book, and a wine glass. The most important interaction is the arrangement of these objects, creating a sense of depth and complexity.",
+      "striking_details": "paper, grapes, stone, scissors, book",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-a-guitar-on-a-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and various colors.",
+      "subject_description": "The main subjects in this picture are a boat, a cup, and a cross. The most important interaction is the placement of the cross on the boat, which is a common symbol in art representing faith and spirituality.",
+      "striking_details": "boat, cup, spoon, bowl, table",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-ace-of-hearts-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a heart symbol.",
+      "subject_description": "The main subjects in the picture are a plate, a heart, and a cup. The most important interaction is the heart being placed on the plate, which is a common gesture to express love or affection.",
+      "striking_details": "Plate, heart, paper, table, drawing",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-glass-carafe-and-phillips-ace-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a vase and a table. The most important interaction is the vase being placed on the table.",
+      "striking_details": "vase, table, polka dots, brush strokes, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-grapes-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on color and form.",
+      "subject_description": "The main subjects in the picture are a bowl and a table. The most important interaction is the bowl sitting on the table.",
+      "striking_details": "green, red, yellow, brown",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-grapes-ii-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a table and a bowl. The most important interaction is the bowl sitting on the table.",
+      "striking_details": "Abstract, shapes, colors, patterns, forms",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-le-jour-1929.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of still life and domesticity.",
+      "subject_description": "The main subjects in this picture are a table with various objects on it, including a knife, a vase, a bowl, and a book. The most important interaction in the picture is the knife resting on the book, which is placed on the table.",
+      "striking_details": "knife, fruit, vase, book, table",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-bottle-of-rum-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are a red piece of paper, a black piece of paper, and a white piece of paper. The most important interaction in the picture is the overlapping of the red and black pieces of paper, creating a visual contrast and a sense of depth.",
+      "striking_details": "black, white, red, paper, scissors",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-clarinet-tenora-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and lines.",
+      "subject_description": "The main subjects in this picture are a violin, a bottle, and a book. The most important interaction is the violin playing the music of the book, which is the central focus of the artwork.",
+      "striking_details": "The image is a cubist artwork, featuring geometric shapes and lines. It includes a brown rectangular shape, a black rectangular shape, a white rectangular shape, and a black and white rectangular shape. The artwork also contains a brown and white rectangular shape.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-clarinet-valse-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a guitar and a bottle. The most important interaction is the guitar leaning against the bottle.",
+      "striking_details": "wood, art, frame, canvas, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-gray-table-1930.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a guitar, a bowl of fruit, and a cup. The most important interaction is the guitar leaning against the bowl of fruit, creating a sense of stillness and harmony.",
+      "striking_details": "guitar, bowl, fruit, fish, table",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-green-jug.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are a guitar, a person, and a chair. The most important interaction is the person playing the guitar while sitting on the chair.",
+      "striking_details": "guitar, brush, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-musician-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a person and a guitar. The most important interaction is the person playing the guitar, as indicated by the positioning of the objects and the presence of musical notes.",
+      "striking_details": "abstract art, geometric shapes, bold colors, collage style, modern art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-musician-s-table-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are various objects and papers, with the most important interaction being the overlapping and intertwining of these elements, creating a sense of complexity and depth.",
+      "striking_details": "paper, paint, brush, canvas, art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-sideboard-1920.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and various objects.",
+      "subject_description": "The main subjects in this picture are a bowl of fruit, a guitar, and a book. The most important interaction is the guitar leaning against the book, suggesting a connection between music and literature.",
+      "striking_details": "paper, guitar, fruit, bowl, door",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-violin-1914.jpg",
+      "visual_analysis": "The picture has an abstract and surreal atmosphere, featuring a chaotic arrangement of geometric shapes and objects.",
+      "subject_description": "The main subjects in this picture are a variety of objects, including a cup, a fork, and a knife. The most important interaction in the picture is the arrangement of these objects, creating a sense of depth and perspective.",
+      "striking_details": "brush, palette, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-violin-valse-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with a focus on geometric forms. The most important interaction is the interplay between these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "art, paper, scissors, collage, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-glass-1913-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects of the picture are various objects, including a book, a fork, and a knife. The most important interaction in the picture is the overlapping and interlocking of these objects, creating a sense of depth and complexity.",
+      "striking_details": "wood, paper, paint, canvas, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-glass-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and lines creating a sense of disorder and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on the interaction between the yellow and brown elements. The most important interaction appears to be the overlapping and intersecting of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "yellow, brown, black, white, building",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-glass.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are geometric shapes and abstract forms. The most important interaction is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "brown, white, paper, scissors, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-newspaper-musical-forms.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a sense of movement.",
+      "subject_description": "The main subjects in this picture are a violin, a wine glass, and a bottle. The most important interaction is the violin playing music, which is depicted in the artwork.",
+      "striking_details": "The image is a cubist artwork, featuring geometric shapes and lines. It contains a violin, a wine glass, a book, and a bottle. The colors are primarily brown, black, and white.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-pipe-le-quotidien-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are a pair of sunglasses, a newspaper, and a pipe. The most important interaction is the sunglasses resting on the newspaper, which is placed on the pipe.",
+      "striking_details": "Leaf, Sunglasses, Newspaper, Pipe, Oval",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-sheet-music-on-a-table-petit-oiseau-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a chair, a music stand, and a violin. The most important interaction is the violin leaning against the music stand, which is placed on the chair.",
+      "striking_details": "piano, music, notes, paper, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-melodie-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are various objects and shapes, including a chair, a vase, and a bowl. The most important interaction in the picture is the overlapping and intertwining of these objects, creating a sense of depth and complexity.",
+      "striking_details": "brush, paint, canvas, art, style",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_wineglass-bottle-of-bass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a wine glass, a flower, and a piece of paper. The most important interaction is the wine glass being drawn on the paper, with the flower also being drawn on the paper.",
+      "striking_details": "paper, drawing, scissors, card, art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_woman-with-a-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a guitar and a book. The most important interaction is the guitar resting on the book, suggesting a connection between music and literature.",
+      "striking_details": "guitar, music, paper, abstract, cubism",
+      "status": "success"
+    },
+    {
+      "image_name": "gino-severini_still-life-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and clutter.",
+      "subject_description": "The main subjects in this picture are a bottle, a cup, and a book. The most important interaction is the overlapping of the objects, creating a sense of depth and complexity.",
+      "striking_details": "bottle, book, flower, stripe, square",
+      "status": "success"
+    },
+    {
+      "image_name": "gino-severini_still-life-with-marsala-bottle-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are a person, a book, and a wine glass. The most important interaction is the person holding the book and the wine glass.",
+      "striking_details": "The image is abstract, featuring geometric shapes and a collage-like composition. It includes a variety of colors, such as pink, blue, and yellow. There are also several books depicted in the artwork. The overall style is modern and appears to be influenced by cubism.",
+      "status": "success"
+    },
+    {
+      "image_name": "gino-severini_the-accordion-player-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "green, brown, white, black, red, yellow, gray, purple, orange, blue, diamond, square, rectangle, triangle, circle, line, brushstroke, abstract, cubist, modern, art, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_femme-la-dentelle-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a focus on geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are a woman and a flower. The most important interaction is the woman's face being partially obscured by the flower, creating a unique visual effect.",
+      "striking_details": "flowers, frame, pattern, color, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_fruit-and-a-jug-on-a-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are a table, a cup, and a bowl. The most important interaction is the cup being placed on the table.",
+      "striking_details": "table, bowl, fruit, vase, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_a-man-in-a-cafe-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of depth and perspective.",
+      "subject_description": "The main subjects in this picture are a chair, a table, and a person. The most important interaction is the person sitting on the chair at the table.",
+      "striking_details": "wood, paint, abstract, geometric, color",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_a-pot-of-geraniums-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a focus on geometric shapes and a sense of disorder.",
+      "subject_description": "The main subjects in this picture are a collection of objects, including a vase, a newspaper, and a bowl. The most important interaction in the picture is the arrangement of these objects, creating a sense of depth and perspective.",
+      "striking_details": "leaves, newspaper, vase, window, moon",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_beer-glass-and-cards.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a collage of various objects and shapes creating a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a mug, a cup, and a bowl. The most important interaction is the mug being placed on the table next to the cup and the bowl.",
+      "striking_details": "mug, tile, table, bowl, spoon",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_book-pipe-and-glasses.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a focus on geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in this picture are a book, a cup, and a wine glass. The most important interaction is the book being open and the cup and wine glass being placed next to it.",
+      "striking_details": "book, cup, spoon, wine glass, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-and-fruit-dish.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a wine glass, and a book. The most important interaction is the bottle and the wine glass, as they are placed close together, suggesting a connection or relationship between them.",
+      "striking_details": "The image is a cubist painting featuring a bottle, a cup, a vase, a book, and a wine glass.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-and-glass-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a chair, a book, and a barber's pole. The most important interaction is the chair's position in front of the book, creating a sense of depth and perspective in the artwork.",
+      "striking_details": "paper, chair, text, rectangle, brushstroke",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-and-glass-on-a-table-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are geometric shapes, including triangles and circles, which are arranged in an abstract manner. The most important interaction in the picture is the interplay between the shapes and the background, creating a sense of depth and dimension.",
+      "striking_details": "blue, orange, triangle, circle, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-and-glass.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a newspaper. The most important interaction is the bottle's placement on top of the book, which is on top of the newspaper.",
+      "striking_details": "black, red, green, newspaper, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-glass-and-newspaper.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a wine glass, and a piece of paper. The most important interaction is the bottle's placement next to the wine glass and the paper, suggesting a social or celebratory event.",
+      "striking_details": "bottle, paper, wall, door",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-newspaper-and-fruit-bowl-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and bold colors.",
+      "subject_description": "The main subjects in the picture are a bottle and a plate. The most important interaction is the bottle standing on the table, next to the plate.",
+      "striking_details": "bottle, plate, newspaper, hat, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle-of-beaune-and-a-fruit-dish-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are abstract shapes and forms, with a focus on geometric patterns. The most important interaction is the interplay between the various shapes and colors, creating a sense of depth and complexity.",
+      "striking_details": "green, black, white, red, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a vase. The most important interaction is the bottle, which is placed in front of the book and the vase, creating a focal point in the composition.",
+      "striking_details": "bottle, paper, polka dots, wood, money",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bowl-and-book-1927.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and bold colors.",
+      "subject_description": "The main subjects in this picture are a book, a chair, and a red object. The most important interaction in the picture is the book lying on the chair, suggesting a reading or study environment.",
+      "striking_details": "red, book, chair, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bowl-book-and-spoon.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a vase, a book, and a spoon. The most important interaction is the vase being placed on top of the book.",
+      "striking_details": "vase, spoon, napkin, book, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bowl-glass-and-newspaper.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on the word \"journal\" amidst various objects.",
+      "subject_description": "The main subjects in this picture are a newspaper, a hat, and a cup. The most important interaction in the picture is the newspaper being used as a hat stand, with the hat placed on top of it.",
+      "striking_details": "hat, newspaper, cup, table, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_breakfast-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a mix of everyday objects and abstract elements.",
+      "subject_description": "The main subjects in this picture are a table, cups, and a teapot. The most important interaction is the arrangement of these objects on the table, creating a sense of still life composition.",
+      "striking_details": "table, cups, vase, bowls, chairs",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_breakfast-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and various colors.",
+      "subject_description": "The main subjects in this picture are a newspaper, a wine glass, and a bottle. The most important interaction is the overlapping of the newspaper with the wine glass and the bottle, creating a sense of depth and complexity.",
+      "striking_details": "green, blue, red, newspaper, bottle",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_composition-with-violin.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a violin, a book, and a piece of paper. The most important interaction is the violin playing the music on the paper, which is part of the book.",
+      "striking_details": "violin, polka dots, text, wood, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_compotier-carafe-and-open-book.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in the picture are a book, a newspaper, and a bowl of fruit. The most important interaction is the book lying on top of the newspaper, which is placed on top of the bowl of fruit.",
+      "striking_details": "apples, book, paper, star",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fantomas-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring geometric shapes and a collage of various objects.",
+      "subject_description": "The main subjects in this picture are a person and a chair, with the person holding a book. The most important interaction in the picture is the person's engagement with the book, as they are holding it and possibly reading it.",
+      "striking_details": "wood, paint, newspaper, checkered, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_flowers-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a focus on the use of bold colors and abstract shapes.",
+      "subject_description": "The main subjects in the picture are a vase, a plate, and a cup. The most important interaction is the vase holding flowers, placed on the plate, with the cup nearby.",
+      "striking_details": "flowers, plate, cup, book",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fruit-bowl-book-and-newspaper.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a cup, a bowl, and a newspaper. The most important interaction is the cup and the bowl, as they are placed next to each other on the table.",
+      "striking_details": "cup, newspaper, table, chair, vase",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fruit-bowl-with-bottle-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and artistic, featuring a checkered tablecloth, a wine glass, and a bowl of fruit.",
+      "subject_description": "The main subjects in this picture are a table, a plate of food, a wine glass, and a vase. The most important interaction is the placement of the wine glass next to the plate of food, suggesting a meal is about to take place.",
+      "striking_details": "bowl, plate, vase, wine glass, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fruit-bowl-with-bottle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and abstract, with a mix of geometric shapes and bold colors.",
+      "subject_description": "The main subjects in this picture are geometric shapes, including a circle, rectangles, and triangles. The most important interaction is the overlapping of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "green, yellow, blue, polka dots, geometric shapes",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fruit-dish-glass-and-lemon-still-life-with-nerwspape.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and disorder.",
+      "subject_description": "The main subjects in this picture are a bowl, a wine glass, and a newspaper. The most important interaction is the bowl sitting on top of the newspaper.",
+      "striking_details": "bowl, fruit, newspaper, bottle, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_fruit-dish-glass-and-newspaper-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the newspaper and the cup.",
+      "subject_description": "The main subjects in this picture are a newspaper, a cup, and a bowl. The most important interaction is the cup resting on the newspaper, which is placed on the bowl.",
+      "striking_details": "cup, newspaper, plate, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_glass-and-bottle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a white vase and a book. The most important interaction in the picture is the vase being placed on top of the book.",
+      "striking_details": "vase, paper, book, scissors, envelope",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_glass-cup-and-bottle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on still life elements such as a bottle, a bowl, and a spoon. The use of bold colors and geometric shapes adds to the surrealistic feel.",
+      "subject_description": "The main subjects in this picture are a bottle, a bowl, a spoon, and a newspaper. The most important interaction in the picture is the placement of the bottle next to the bowl and the spoon, suggesting a meal or a drink. The newspaper is also present, indicating a possible interest in current events.",
+      "striking_details": "bottle, bowl, spoon, newspaper, cat",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_glass-cup-and-newspaper-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in the picture are a cup, a bowl, and a spoon. The most important interaction in the picture is the cup being placed on the bowl.",
+      "striking_details": "cup, bowl, triangle, red, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_glasses-newspaper-and-bottle-of-wine.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a wine glass, a bottle, and a cup. The most important interaction is the placement of the wine glass next to the bottle, suggesting a setting for a drink.",
+      "striking_details": "wine glass, bottle, cup, paper, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_grapes-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a bottle, a bowl, and a cup. The most important interaction is the bottle's placement next to the bowl and cup, suggesting a meal or a drink setting.",
+      "striking_details": "bottle, cup, plate, napkin, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-fruit-dish-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a book, a bottle, and a toilet. The most important interaction is the toilet being used by the book, with the bottle nearby.",
+      "striking_details": "book, bottle, toilet, vase, window",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-fruit-dish.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a vase, a wine glass, and a cup. The most important interaction is the interplay of light and shadow, creating a sense of depth and dimension.",
+      "striking_details": "vase, wine glass, buildings, text, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-glass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and patterns. The most important interaction is the overlapping and interlocking of these shapes, creating a complex and intricate visual composition.",
+      "striking_details": "black, brown, white, flower, key",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-pipe-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of movement and rhythm.",
+      "subject_description": "The main subjects in this picture are a guitar and a violin, both depicted in a cubist style. The most important interaction in the picture is the overlapping of the guitar and the violin, creating a sense of depth and complexity.",
+      "striking_details": "guitar, frame, brushstrokes, color, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-bottle-and-glass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a sense of depth and perspective.",
+      "subject_description": "The main subjects in this picture are a violin, a wine glass, and a book. The most important interaction is the violin playing music, which is depicted as a visual element in the artwork.",
+      "striking_details": "guitar, wine glass, book, music notes, checkered pattern",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-on-a-chair-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a guitar, a cup, and a table. The most important interaction is the guitar leaning against the table, with the cup placed on the table.",
+      "striking_details": "guitar, table, bowl, cup, vase",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-on-a-table-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a collection of abstract geometric shapes, including squares, rectangles, and triangles, arranged in a collage-like manner. The most important interaction in the picture is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "blue, paper, mountain, lines, wood",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-on-the-table-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, featuring geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a guitar, a violin, and a piano. The most important interaction is the overlapping of the guitar and the violin, creating a sense of harmony and unity.",
+      "striking_details": "guitar, paint, brush, canvas, music",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_harlequin-at-a-table-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are a person and a book. The most important interaction is the person holding the book, with the book being open and the person seemingly reading or about to read it.",
+      "striking_details": "geometric shapes, abstract figures, bright colors, modern art, cubist style",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_harlequin-at-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a person and a dog. The most important interaction is the person's hand reaching out towards the dog.",
+      "striking_details": "mountain, dog, chair, table, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_harlequin-with-a-guitar.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction depicted is the man holding a book, suggesting a moment of shared knowledge or storytelling.",
+      "striking_details": "The image is a cubist painting featuring geometric shapes, a person, a chair, a book, and a checkered pattern.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_harlequin.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a figure and a cup. The most important interaction is the figure holding the cup.",
+      "striking_details": "face, hand, triangle, color, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_lamp-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are geometric shapes and patterns. The most important interaction is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "green, orange, polka dot, brown, white",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_landscape-at-beaulieu.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a house and a person. The most important interaction is the person standing in front of the house.",
+      "striking_details": "house, roof, brick, window, door",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_landscape-at-ceret-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a landscape and a village. The most important interaction is the depiction of the village within the landscape, showcasing the relationship between the built environment and the natural surroundings.",
+      "striking_details": "houses, trees, mountains, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_landscape-with-house-at-ceret-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are houses, trees, and a river. The most important interaction is the reflection of the houses in the river, creating a sense of harmony between the built environment and nature.",
+      "striking_details": "house, roof, trees, sky, water",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_landscape.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects of the picture are geometric shapes and buildings. The most important interaction is the overlapping of the shapes and the buildings, creating a sense of depth and complexity.",
+      "striking_details": "cup, building, cloud, chair, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_musician-s-table-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and artistic, with a focus on musical instruments and a bottle.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, a violin, and a wine glass. The most important interaction is the violin playing the book, which is a representation of music and literature.",
+      "striking_details": "bottle, book, music stand, violin, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_newspaper-and-fruit-dish-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and patterns, with a focus on a newspaper or magazine. The most important interaction in the picture is the overlapping and interlocking of these shapes and patterns, creating a sense of depth and complexity.",
+      "striking_details": "crown, flower, newspaper, polka dots, geometric shapes",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_newspaper-glass-and-pear-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are geometric shapes and abstract forms. The most important interaction is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "abstract art, geometric shapes, bold colors, modern style, surreal elements",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_newspaper-with-coffee-mill-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a newspaper, a wrench, and a teapot. The most important interaction is the newspaper lying on the floor, with the wrench resting on top of it.",
+      "striking_details": "wrench, journal, pipe, teapot, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_not_detected_207833.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a wine bottle, a book, and a pair of scissors. The most important interaction is the wine bottle being held by the book, with the scissors resting on the book.",
+      "striking_details": "book, bottle, paper, scissors, pen",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_open-window-with-hills-1923.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a focus on the juxtaposition of objects and the use of color.",
+      "subject_description": "The main subjects in this picture are a person, a book, and a bottle. The most important interaction is the person holding the book and the bottle, suggesting a moment of relaxation or contemplation.",
+      "striking_details": "book, curtain, window, table, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_pears-and-grapes-on-a-table-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a bowl, a book, and a wine glass. The most important interaction is the arrangement of these objects, creating a still life composition.",
+      "striking_details": "wine glass, book, bowl, fruit, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_pedistal-table-in-front-of-the-window-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a guitar, a book, and a bowl. The most important interaction is the guitar playing the book, which is depicted as a musical score.",
+      "striking_details": "buildings, curtain, book, paper, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_photograph-of-the-guitar-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a guitar, a book, and a bottle. The most important interaction is the guitar leaning against the book, which is placed on a table.",
+      "striking_details": "guitar, papers, desk, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_photograph-of-violin-and-checkerboard-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and patterns.",
+      "subject_description": "The main subjects of the picture are a guitar, a cup, and a book. The most important interaction in the picture is the guitar leaning against the book, creating a sense of harmony and connection between the objects.",
+      "striking_details": "guitar, checkered pattern, cup, book, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_pipe-and-fruit-dish-with-grapes-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in the picture are a book and a pair of scissors. The most important interaction is the book lying on the ground, with the scissors resting on top of it.",
+      "striking_details": "green, black, white, red, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_playing-cards-and-siphon-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and mysterious, with a sense of chaos and disorder.",
+      "subject_description": "The main subjects in this picture are a bottle, a cup, and a book. The most important interaction is the placement of the bottle and the cup, which are positioned next to each other, creating a sense of balance and harmony in the composition.",
+      "striking_details": "bottle, cup, cards, table, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_saint-matorel-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and colorful, with a sense of disorder and vibrancy.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a pair of scissors. The most important interaction in the picture is the scissors cutting through the book.",
+      "striking_details": "bottle, hat, book, key, box",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a dreamlike quality.",
+      "subject_description": "The main subjects in the picture are a newspaper, a wine glass, and a bottle. The most important interaction is the newspaper lying on the table, with the wine glass and bottle placed on top of it.",
+      "striking_details": "wine glass, newspaper, checkered pattern, bottle, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-at-the-open-windowq-1925.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are a desk, a chair, and various objects such as books, papers, and a bowl. The most important interaction in the picture is the arrangement of these objects on the desk, creating a sense of organized chaos.",
+      "striking_details": "book, table, door, paper, pencil",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-before-an-open-window-place-ravignan-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a collection of books and a tree. The most important interaction is the tree's shadow on the books, creating a sense of depth and perspective.",
+      "striking_details": "tree, house, newspaper, fence, railing",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-dedicated-to-andre-salmon-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a book, a piece of paper, and a box. The most important interaction is the overlapping of the book and the box, creating a sense of depth and perspective.",
+      "striking_details": "The image is a cubist painting featuring geometric shapes, a blue background, a green and white striped pattern, a brown and white striped pattern, and a black and white striped pattern.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-in-front-of-the-wiindow-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the objects and their shadows.",
+      "subject_description": "The main subjects in this picture are a bottle, a remote control, and a newspaper. The most important interaction is the bottle's reflection on the newspaper, creating a visual connection between the objects.",
+      "striking_details": "bottle, remote, newspaper, window, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-on-a-chair-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and bold colors.",
+      "subject_description": "The main subjects in this picture are a chair, a vase, and a table. The most important interaction is the vase placed on the table, which is positioned in front of the chair.",
+      "striking_details": "chair, hat, blue, orange, black",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-on-plaque-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are geometric shapes and lines. The most important interaction is the overlapping and intersecting of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "Juan Gris, cubism, geometric shapes, abstract, modern art",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-bottle-and-cigars-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle and a building. The most important interaction is the bottle's reflection on the building's surface.",
+      "striking_details": "bottle, wall, roof, door, window",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-bottle-and-glass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a blue vase, a newspaper, and a boat. The most important interaction is the vase's reflection on the newspaper, creating a visual connection between the objects.",
+      "striking_details": "blue vase, newspaper, striped wallpaper, boat, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-checked-tablecloth-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a dreamlike quality.",
+      "subject_description": "The main subjects in the picture are a wine glass, a newspaper, and a bowl of grapes. The most important interaction is the wine glass being filled with wine from the bottle, while the newspaper is being read by a person.",
+      "striking_details": "bowl, grapes, newspaper, checkered tablecloth, wine glass",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-fruit-bowl-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a cup, a bowl, and a book. The most important interaction is the cup and the bowl, as they are placed next to each other, creating a sense of balance and harmony in the composition.",
+      "striking_details": "cup, bowl, book, door, window",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-fruit-bowl-and-mandolin-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of chaos and clutter.",
+      "subject_description": "The main subjects in this picture are a wine glass, a vase, and a bowl. The most important interaction is the wine glass, which is placed in front of the vase and the bowl, creating a sense of depth and perspective.",
+      "striking_details": "wine glass, vase, bowl, paper, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-guitar-1920.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in this picture are a guitar, a wine glass, and a bowl of fruit. The most important interaction is the guitar leaning against the wine glass, which is placed on a table.",
+      "striking_details": "guitar, wine glass, bowl, spoon, fork",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-newspaper-1916-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bowl of fruit, a wine glass, and a newspaper. The most important interaction is the juxtaposition of the still life elements, which creates a sense of stillness and timelessness.",
+      "striking_details": "bowl, fruit, newspaper, vase, bottle",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-newspaper-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a gun. The most important interaction is the gun pointing towards the bottle and the book, suggesting a tense or dangerous situation.",
+      "striking_details": "brush, canvas, paint, art",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-white-tablecloth-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on geometric shapes and a sense of stillness.",
+      "subject_description": "The main subjects of the picture are a bottle, a book, and a pair of scissors. The most important interaction in the picture is the scissors cutting the book.",
+      "striking_details": "bottle, book, vase, paper, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_strawberry-jam-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a cup. The most important interaction in the picture is the bottle's placement on the book, which is on the cup.",
+      "striking_details": "door, wall, paper, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_tea-cups-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a cup, a book, and a clock. The most important interaction is the cup being placed on the book, with the clock in the background.",
+      "striking_details": "paper, pipes, clock, newspaper, checkered",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bay-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and artistic, with a focus on still life and landscape elements.",
+      "subject_description": "The main subjects in this picture are a vase, a sailboat, and a mountain. The most important interaction is the vase placed on a table, with the sailboat and mountain visible through the window.",
+      "striking_details": "sailboat, mountain, curtain, vase, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-book-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and textures.",
+      "subject_description": "The main subjects in this picture are a wine glass, a book, and a vase. The most important interaction in the picture is the wine glass, which is placed in front of the book and the vase, creating a sense of depth and perspective.",
+      "striking_details": "book, wine glass, wall, paper, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-book-of-music-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring a mix of geometric shapes and everyday objects.",
+      "subject_description": "The main subjects in this picture are a glass of wine, a book, and a musical instrument. The most important interaction is the glass of wine placed on top of the book, which is placed on top of the musical instrument.",
+      "striking_details": "guitar, paper, glass, book",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bordeaux-bottle-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, featuring geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in this picture are a bottle and a book, which are interacting with each other. The bottle is placed on top of the book, creating a visual connection between the two objects. The background features a wooden surface and a red curtain, adding depth and context to the scene.",
+      "striking_details": "green bottle, brown frame, blue and black squares, white paper, red background",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bottle-of-anis-del-mono-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in this picture are a bottle of wine and a book. The most important interaction is the placement of the wine bottle in front of the book, creating a visual connection between the two objects.",
+      "striking_details": "Anis del Mono, label, beer, bottle, brown",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bottle-of-banyuls-1914-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a pair of scissors. The most important interaction is the placement of the bottle and the book, which are positioned close to each other, creating a sense of balance and harmony in the composition.",
+      "striking_details": "bottle, chair, table, bow tie",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bottle-of-banyuls-1914.jpg",
+      "visual_analysis": "The picture has a chaotic and abstract atmosphere, with various objects and shapes scattered across the canvas.",
+      "subject_description": "The main subjects in this picture are a bottle, a cup, and a book. The most important interaction in the picture is the bottle and the cup, as they are placed close to each other, creating a sense of balance and harmony in the composition.",
+      "striking_details": "bottle, cup, paper, paint, brush",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-bull-fighter-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of fragmentation.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction in the picture is the man holding a book, which is a significant element in the composition.",
+      "striking_details": "pizza, tie, chicken, more, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-checkerboard-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes, primarily cubes, arranged in a chaotic manner. The most important interaction is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "green, checkered, brown, wood, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-coffee-grinder-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with various objects such as a cup, spoon, and wine glass scattered around.",
+      "subject_description": "The main subjects in this picture are a cup, a spoon, and a bottle. The most important interaction is the placement of the cup on the spoon, which is resting on a table.",
+      "striking_details": "cup, spoon, wine glass, bottle, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-dice-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bowl, a plate, and a book. The most important interaction is the bowl and the plate, as they are placed next to each other, creating a sense of balance and harmony in the composition.",
+      "striking_details": "apple, bowl, plate, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-glass-the-fruit-bowl-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on a white and black color scheme. The most important interaction in the picture is the interplay between the shapes and lines, creating a sense of depth and perspective.",
+      "striking_details": "black, white, orange, square, line",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a guitar, a woman, and a man. The most important interaction is the woman playing the guitar, with the man standing behind her.",
+      "striking_details": "guitar, woman, painting, abstract, colorful",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-guitar-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, featuring a mix of geometric shapes, floral patterns, and a guitar, all set against a backdrop of a wall with a floral pattern.",
+      "subject_description": "The main subjects in this picture are a guitar, a book, and a vase. The most important interaction is the guitar leaning against the book, which is placed on a table.",
+      "striking_details": "wallpaper, guitar, flowers, polka dots, wood",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-packet-of-coffee-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a banana. The most important interaction is the overlapping of the book and the banana, creating a sense of depth and perspective.",
+      "striking_details": "bottle, paper, scissors, book, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-packet-of-tobacco-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a cup, a spoon, and a plate with food. The most important interaction is the placement of the cup, spoon, and plate on a table, creating a still life composition.",
+      "striking_details": "cup, spoon, plate, box, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-painter-s-window-1925.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with various objects piled on top of each other.",
+      "subject_description": "The main subjects in this picture are a desk, a window, and various objects scattered on the desk. The most important interaction in the picture is the arrangement of the objects on the desk, which creates a sense of clutter and disorganization.",
+      "striking_details": "brush, palette, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-pipe-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are a newspaper, a pair of scissors, and a ruler. The most important interaction in the picture is the cutting of the newspaper with the scissors, as indicated by the ruler.",
+      "striking_details": "paper, wood, polka dots, letters, chess piece",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-sideboard-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a cup, and a bowl. The most important interaction is the bottle's reflection in the bowl.",
+      "striking_details": "bottle, glass, table, door, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-siphon-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring a fragmented scene with a table, chairs, and a bottle, set against a dark background.",
+      "subject_description": "The main subjects in this picture are a table, chairs, and a bottle. The most important interaction is the bottle being poured into a glass on the table.",
+      "striking_details": "bottle, glass, table, chair, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-sunblind-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring a collage of various objects and text.",
+      "subject_description": "The main subjects in this picture are a stack of playing cards, a newspaper, and a pair of scissors. The most important interaction in the picture is the scissors cutting the newspaper, which is placed on top of the playing cards.",
+      "striking_details": "wood, paper, paint, metal",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-table-in-front-of-the-window-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the objects in the room.",
+      "subject_description": "The main subjects in the picture are a vase, a glass, and a newspaper. The most important interaction is the vase being placed on the table next to the glass and the newspaper.",
+      "striking_details": "book, vase, newspaper, table, lamp",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-violin-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, featuring a violin and a bow in a geometric composition.",
+      "subject_description": "The main subjects in this picture are a violin and a cello, both depicted in an abstract and fragmented manner. The most important interaction in the picture is the interplay between the two instruments, suggesting a musical composition or performance.",
+      "striking_details": "violin, bow, music stand, sheet music, background",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-violin-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a violin, a piano, and a person. The most important interaction is the person playing the violin, which is depicted in a cubist style.",
+      "striking_details": "piano, violin, music stand, door, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_tobacco-newspaper-and-bottle-of-wine-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are a person's head, a book, and a pair of shoes. The most important interaction in the picture is the person's head being next to the book and the shoes.",
+      "striking_details": "le jour, le jour, le jour, le jour, le jour",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_view-across-the-bay-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a focus on geometric shapes and abstract forms.",
+      "subject_description": "The main subjects in this picture are a table, a bottle, a vase, and a door. The most important interaction is the placement of the bottle and vase on the table, which creates a still life composition.",
+      "striking_details": "wine glass, bottle, door, table, mountain",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_violin-and-glass-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and perspective.",
+      "subject_description": "The main subjects in this picture are a violin, a book, and a piece of paper. The most important interaction is the violin playing the music on the sheet music, which is on the paper.",
+      "striking_details": "green, brown, wood, paper, music",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_violin-and-glass-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a table, a chair, and various objects scattered around. The most important interaction is the placement of the objects on the table, creating a sense of clutter and disarray.",
+      "striking_details": "paper, table, book, cup, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_violin-and-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and chaotic, with a mix of geometric shapes and abstract elements creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are a violin and a guitar, which are interacting with each other. The violin is positioned on the left side of the image, while the guitar is on the right. The most important interaction between the two instruments is their close proximity, suggesting a harmonious relationship between the two.",
+      "striking_details": "The image is a cubist painting featuring geometric shapes, abstract forms, a violin, a guitar, and a blue background.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_violin-and-ink-bottle-on-a-table-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a violin, a vase, and a bowl. The most important interaction is the violin playing music, which is depicted in the painting.",
+      "striking_details": "violin, curtain, vase, shadow, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_violine-and-glass-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a green vase and a blue book. The most important interaction is the vase resting on the book.",
+      "striking_details": "blue, green, brown, red, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_water-bottle-bottle-and-fruit-dish-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a newspaper, a wine glass, and a pair of scissors. The most important interaction is the placement of the wine glass on top of the newspaper, which is on the table.",
+      "striking_details": "newspaper, glass, scissors, table, checkered pattern",
+      "status": "success"
+    },
+    {
+      "image_name": "jury-annenkov_music-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and text elements.",
+      "subject_description": "The main subjects in this picture are geometric shapes and text. The most important interaction is the overlapping of shapes and the interplay of text, creating a complex and layered visual experience.",
+      "striking_details": "abstract art, newspaper, music notes, geometric shapes, typography",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_au-bon-marche-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and somewhat chaotic, with various objects and text elements creating a sense of clutter and intrigue.",
+      "subject_description": "The main subjects in this picture are a box, a cross, and a piece of paper. The most important interaction is the placement of the cross next to the box, which suggests a religious or spiritual theme.",
+      "striking_details": "box, cross, text, umbrella, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bottle-glass-violin-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a collage of various elements such as a bottle, a violin, and a newspaper.",
+      "subject_description": "The main subjects in this picture are a bottle, a newspaper, and a violin. The most important interaction is the overlapping of the bottle and the violin, creating a visual connection between the two objects.",
+      "striking_details": "bottle, newspaper, journal, violin, boat",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bottle-of-bass-glass-and-package-of-tobacco-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and somewhat chaotic, with various objects scattered around.",
+      "subject_description": "The main subjects in this picture are a book, a card, and a pair of scissors. The most important interaction is the scissors cutting the book, as indicated by the visible cut marks.",
+      "striking_details": "bass, envelope, paper, box, money",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bottle-of-black-rum-vive-la-france-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of abstract and figurative elements.",
+      "subject_description": "The main subjects in this picture are a vase, a book, and a bird. The most important interaction is the bird perched on the book.",
+      "striking_details": "vase, flowers, books, bottles, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bottle-of-vieux-marc-glass-and-newspaper-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are a newspaper, a book, and a piece of paper with the word \"JOUR\" on it. The most important interaction in the picture is the placement of the word \"JOUR\" on the piece of paper, which is positioned in the center of the composition.",
+      "striking_details": "paper, scissors, paint, canvas, brush",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bottle-of-vieux-marc-glass-guitar-and-newspaper-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a collage of various elements and text.",
+      "subject_description": "The main subjects in this picture are a collage of various objects, including a newspaper, a piece of paper, and a figure. The most important interaction in the picture is the overlapping and layering of these objects, creating a sense of depth and complexity.",
+      "striking_details": "Figaro, paper, collage, abstract, typography",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_clarinet-and-violin-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of chaos and disarray.",
+      "subject_description": "The main subjects in this picture are a bottle, a bowl, and a spoon. The most important interaction in the picture is the bottle being placed on the table.",
+      "striking_details": "The image is abstract, so it's difficult to provide a definitive list of key visual details. However, I can suggest some elements that might be considered key:\n\n1. Lines,\n2. Shapes,\n3. Colors,\n4. Texture,\n5. Composition.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_clarinet-bottle-of-bass-newspaper-ace-of-clubs-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a cardboard box, a bottle, and a book. The most important interaction is the placement of the cardboard box on top of the book, creating a layered composition.",
+      "striking_details": "pass, envelope, building, polka dots, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_couple-of-dancers-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a dress, a bottle, and a vase. The most important interaction is the interplay of colors and shapes, creating a sense of depth and perspective.",
+      "striking_details": "blue door, red floor, abstract art, geometric shapes, modern style",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_cubist-person-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on color and form.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "abstract, shapes, colors, art, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_figure.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a bird and a fish, with the bird being the most prominent. The most important interaction in the picture is the bird pecking at the fish.",
+      "striking_details": "triangle, circle, boat, mountain",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_fruit-dish-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a focus on the still life elements.",
+      "subject_description": "The main subjects in this picture are a bowl of fruit, a vase, and a book. The most important interaction is the arrangement of these objects, creating a still life composition.",
+      "striking_details": "bowl, fruit, paper, vase, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_fruit-vase-and-bunch-of-grapes-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a white vase and a bowl of fruit. The most important interaction is the placement of the fruit bowl on top of the vase.",
+      "striking_details": "white, orange, blue, brown, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_geometrical-composition-the-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and geometric shapes.",
+      "subject_description": "The main subjects in this picture are geometric shapes, primarily triangles and rectangles, with a predominantly warm color palette. The most important interaction in the picture is the overlapping of shapes, creating a sense of depth and dimension.",
+      "striking_details": "white, black, orange, triangle, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_glass-and-bottle-of-bass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and intricate, with a focus on the contrast between the black and white elements.",
+      "subject_description": "The main subjects in the picture are a plate, a book, and a handbag. The most important interaction is the handbag being placed on the plate, which is an unusual and unexpected combination.",
+      "striking_details": "plate, frame, paper, text, flowers",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_glass-and-bottle-of-straw-rum-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of various objects and colors.",
+      "subject_description": "The main subjects in this picture are a wine glass, a bottle, a bowl, and a book. The most important interaction in the picture is the placement of the wine glass next to the bottle, which suggests a setting for a meal or a social gathering.",
+      "striking_details": "bottle, bowl, cup, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_glass-and-bottle-of-suze-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a collage of various elements and text.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a pair of sunglasses. The most important interaction is the placement of the sunglasses on the bottle, which is the focal point of the composition.",
+      "striking_details": "paper, scissors, book, magazine, newspaper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_glass-and-newspaper-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and mysterious, with a focus on the broken shovel and the surrounding objects.",
+      "subject_description": "The main subjects in this picture are a shovel and a book. The most important interaction is the shovel resting on the book, suggesting a connection between manual labor and literature.",
+      "striking_details": "axe, paper, frame, dirt",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_glass-on-a-table-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "331, number, wood, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, featuring a unique arrangement of cardboard and wire.",
+      "subject_description": "The main subjects in this picture are a cardboard guitar and a cardboard violin. The most important interaction in the image is the string of the guitar, which is connected to the violin, suggesting a musical connection between the two instruments.",
+      "striking_details": "cardboard, wire, cylinder, box, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-1920-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes and abstract forms. The most important interaction is the overlapping and interlocking of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "abstract art, geometric shapes, bold colors, modern style, abstract design",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-1920.jpg",
+      "visual_analysis": "The picture has a vibrant and abstract atmosphere, with a mix of geometric shapes and bold colors.",
+      "subject_description": "The main subjects in this picture are geometric shapes and letters. The most important interaction is the arrangement of these elements, creating a visually engaging composition.",
+      "striking_details": "The image is a cubist painting featuring geometric shapes and a limited color palette. It includes a large archway, a red and white letter \"I\", a blue and yellow square, a brown and white rectangle, and a white and black rectangle.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-1926.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat mysterious, with a focus on geometric shapes and textures.",
+      "subject_description": "The main subjects in this picture are a piece of cloth with a hole in it, two sticks, and a piece of paper. The most important interaction is the placement of the cloth on the paper, with the sticks positioned on top of the cloth.",
+      "striking_details": "fabric, net, string, paper, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-and-bottle-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with various objects scattered across the surface.",
+      "subject_description": "The main subjects in this picture are a guitar, a saw, and a piece of wood. The most important interaction is the saw cutting the piece of wood, which is a key element in the creation of the guitar.",
+      "striking_details": "wood, paint, brush, canvas, knife",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-and-jug-on-a-table-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, featuring geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a chair, a table, and a painting. The most important interaction is the placement of the painting on the table, which is in front of the chair.",
+      "striking_details": "chair, frame, color, pattern, room",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-and-sheet-of-music-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a collage of various shapes and colors.",
+      "subject_description": "The main subjects in this picture are a guitar, a piece of paper, and a book. The most important interaction is the guitar's shadow on the paper, which creates a sense of depth and perspective in the artwork.",
+      "striking_details": "paper, music, guitar, notes, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-glass-and-bottle-of-vieux-marc-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are various geometric shapes and letters. The most important interaction is the arrangement of these shapes and letters, creating a visually engaging composition.",
+      "striking_details": "The image is abstract, so it's difficult to provide specific details without interpreting the artwork. However, I can provide a list of elements that are commonly found in abstract art:\n\n1. Color\n2. Shape\n3. Line\n4. Form\n5. Texture",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-sheet-music-and-wine-glass-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and eclectic, featuring a collage of various objects and text.",
+      "subject_description": "The main subjects in this picture are a boat, a bird, and a musical score. The most important interaction is the boat's reflection on the water, which is depicted in the artwork.",
+      "striking_details": "blue paper, music sheet, brown paper, boat, flowers",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of simplicity and minimalism.",
+      "subject_description": "The main subjects in this picture are a piece of cloth with a hole in it, which is hanging from a string, and a brown net. The most important interaction in this picture is the hanging of the cloth from the string.",
+      "striking_details": "fabric, netting, string, square, orange",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_harlequin-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are geometric shapes and figures. The most important interaction is the overlapping of shapes, creating a sense of depth and complexity.",
+      "striking_details": "black, red, blue, white, checkered, geometric, abstract, modern, art, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_head-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and geometric shapes.",
+      "subject_description": "The main subjects in this picture are geometric shapes, including a triangle and a rectangle. The most important interaction in the picture is the blue line that connects the two shapes, creating a sense of balance and harmony.",
+      "striking_details": "triangle, blue, black, yellow, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_head-of-a-man-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a cat, a woman, and a bird. The most important interaction is the cat's gaze directed towards the woman, which is a significant element in the composition.",
+      "striking_details": "brush, paper, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_head-of-a-man-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are geometric shapes and lines. The most important interaction is the overlapping and intersecting of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "American flag, abstract art, geometric shapes, bold colors, modern style",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_head-of-a-man-with-hat-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and geometric shapes.",
+      "subject_description": "The main subjects in this picture are geometric shapes, including a large blue rectangle and a smaller brown rectangle. The most important interaction in the picture is the overlapping of these shapes, creating a sense of depth and complexity.",
+      "striking_details": "The image is a cubist portrait, featuring geometric shapes and lines. It is a piece of abstract art. The colors used are blue, brown, and white. The style is modern and minimalistic. The image is composed of various shapes and lines, creating a unique and intriguing visual experience.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_man-with-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and splashes of color.",
+      "subject_description": "The main subjects in the picture are a cat and a fish. The most important interaction is the cat sitting on the ground, looking up at the fish swimming in the water.",
+      "striking_details": "black, hat, red, white, green",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_man-with-pipe-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a collage-like composition.",
+      "subject_description": "The main subjects in this picture are a person and various objects. The most important interaction is the person holding a book, which suggests a connection between the individual and the content of the book.",
+      "striking_details": "The image is a collage of various objects and colors, including a person, a chair, a book, a tie, and a suit.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_mandolin-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a wooden boat and a wooden sword. The most important interaction is the sword piercing the boat, creating a sense of tension and conflict.",
+      "striking_details": "wood, boat, sail, mast, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_partition-bottle-of-port-guitar-playing-cards-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of abstract and figurative elements.",
+      "subject_description": "The main subjects in this picture are a bottle, a book, and a musical instrument. The most important interaction is the bottle's placement next to the book and the musical instrument, creating a visually balanced composition.",
+      "striking_details": "bottle, book, paper, snake",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_pedestal-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a cat, a bird, and a person. The most important interaction is the cat playing with a bird, which is depicted in a cubist style.",
+      "striking_details": "paper, tree, sign, bench",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_pipe-and-card-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a blue and white sculpture and a green background. The most important interaction is the reflection of the sculpture in the mirror.",
+      "striking_details": "blue, mirror, painting, green, white",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_playing-card-and-glass-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and bold colors.",
+      "subject_description": "The main subjects in this picture are a red vase and a blue background. The most important interaction is the contrast between the red vase and the blue background, creating a visually striking image.",
+      "striking_details": "orange, blue, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_portrait-of-young-girl-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and chaotic, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in this picture are a person, a cup, and a book. The most important interaction is the person holding the cup and the book.",
+      "striking_details": "chair, vase, book, flower, cup",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in the picture are a bottle, a book, and a piece of paper. The most important interaction is the placement of the bottle on the book, which is on top of the paper.",
+      "striking_details": "paper, frame, color, shape, text",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-with-guitar-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a hat, a violin, and a face. The most important interaction is the hat being placed on the face, creating a surreal and abstract image.",
+      "striking_details": "100, money, hat, purse, tie",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-with-violin-and-fruits-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a collage of various objects and text.",
+      "subject_description": "The main subjects in this picture are various objects and text, including a bowl, a book, and a newspaper. The most important interaction in the picture is the overlapping of these objects, creating a collage-like effect.",
+      "striking_details": "apples, newspaper, journal, chair, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_student-with-newspaper-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a building, a tree, and a person. The most important interaction is the person holding an umbrella, which is positioned above the building and the tree.",
+      "striking_details": "umbrella, building, polka dots, text, heart",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_student-with-pipe.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a mix of abstract and figurative elements.",
+      "subject_description": "The main subjects in this picture are a large umbrella, a clock, and a boat. The most important interaction is the umbrella, which is positioned above the clock and the boat, creating a sense of shelter or protection.",
+      "striking_details": "umbrella, boat, clock, cloud, tree",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a collage of various elements and colors.",
+      "subject_description": "The main subjects in this picture are a guitar, a book, and a piece of paper. The most important interaction is the guitar's neck, which is intertwined with the book and the paper.",
+      "striking_details": "guitar, paper, paint, collage, art",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-guitar-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and geometric shapes.",
+      "subject_description": "The main subjects in this picture are geometric shapes, including a book and a white triangle. The most important interaction is the overlapping of the book and the triangle, creating a sense of depth and perspective.",
+      "striking_details": "book, stripes, triangle, red, white",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-tavern-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a mix of objects and text.",
+      "subject_description": "The main subjects in this picture are a fork, a book, and a bowl. The most important interaction in the picture is the fork resting on the book, which is placed on the bowl.",
+      "striking_details": "newspaper, fork, book, bowl, shoe",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_violin-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are a cup, a newspaper, and a boat. The most important interaction is the cup being placed on the boat, which is depicted on the newspaper.",
+      "striking_details": "boat, newspaper, spiral, cup, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_violin-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of different textures and patterns.",
+      "subject_description": "The main subjects in this picture are a white box with black stripes and a newspaper. The most important interaction is the placement of the box on top of the newspaper, creating a layered effect.",
+      "striking_details": "paper, box, stripes, newspaper, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_violin.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a boat, a bird, and a fish. The most important interaction is the boat carrying the bird and the fish.",
+      "striking_details": "boat, book, flag, bird, tree",
+      "status": "success"
+    }
+  ]
+}
