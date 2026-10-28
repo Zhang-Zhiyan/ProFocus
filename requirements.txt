@@ -1,0 +1,19 @@
+# Candidate Linux / Python 3.10 environment; not an original experiment lockfile.
+# pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu117
+torch==1.13.0+cu117
+torchvision==0.14.0+cu117
+transformers==4.45.2
+accelerate==0.12.0
+# TensorFlow is used only for scalar logging.
+tensorflow-cpu==2.15.1
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+numpy==1.26.4
+pandas==2.2.3
+pillow==10.4.0
+nltk==3.9.1
+tqdm==4.66.5
+six==1.16.0
+packaging==24.1
+# Python 3 COCO evaluator fallback; see docs/REPRODUCIBILITY.md.
+pycocotools==2.0.7
+pycocoevalcap==1.2
