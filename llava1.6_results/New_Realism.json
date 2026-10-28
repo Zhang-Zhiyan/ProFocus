@@ -1,0 +1,2214 @@
+{
+  "folder_name": "New_Realism",
+  "processed_date": "2025-12-30 16:40:03",
+  "model": "llava-v1.6-mistral-7b-hf",
+  "processing_mode": "batch_8",
+  "total_images": 314,
+  "successful": 314,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "processing_time_seconds": 729.19,
+  "processing_time_formatted": "0:12:09",
+  "avg_time_per_image": 2.32,
+  "images_per_second": 0.431,
+  "analyses": [
+    {
+      "image_name": "edward-hopper_adam-s-house.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the quiet, residential neighborhood.",
+      "subject_description": "The main subjects in this picture are a house, a telephone pole, and a fence. The most important interaction is the telephone pole, which is connected to the house by a wire.",
+      "striking_details": "house, pole, fence, tree, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_adobe-houses.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape and the simplicity of rural life.",
+      "subject_description": "The main subjects in this picture are a wooden structure and a mountainous landscape. The most important interaction is the juxtaposition of the man-made structure with the natural environment, highlighting the contrast between human-made and natural elements.",
+      "striking_details": "mountains, houses, trees, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_adobes-and-shed-new-mexico.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of solitude and tranquility.",
+      "subject_description": "The main subjects in this picture are a chair, a fence, and a building. The most important interaction is the chair's position in front of the building, suggesting a connection between the two.",
+      "striking_details": "barn, chair, fence, tree, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_american-landscape.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of solitude and tranquility.",
+      "subject_description": "The main subjects in this picture are a cow, a bull, and a house. The most important interaction is the cow standing next to the bull, which is lying down.",
+      "striking_details": "house, cow, fence, sky, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_american-village.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of tranquility and calmness.",
+      "subject_description": "The main subjects in this picture are a town, a road, and a school bus. The most important interaction is the school bus driving down the road in the town.",
+      "striking_details": "buildings, street, people, bus",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_apartment-houses.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on domestic life and the quiet moments of a woman in a blue dress.",
+      "subject_description": "The main subjects in this picture are a woman in a blue dress and a man in a white shirt. The most important interaction is the woman opening a window while the man watches her.",
+      "striking_details": "woman, dress, window, chair, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_automat-1927.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and somber, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a woman sitting at a table, a vase with flowers, and a radiator. The most important interaction is the woman holding a cup, possibly drinking from it.",
+      "striking_details": "table, chair, vase, radiator, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_baptistry-of-st-john-s.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the white vase and the architectural elements of the room.",
+      "subject_description": "The main subjects in this picture are a white vase, a white sculpture, and a white pedestal. The most important interaction is the placement of the vase on the pedestal, creating a balanced and harmonious composition.",
+      "striking_details": "pillar, staircase, railing, vase, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_bistro.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of tranquility and calmness.",
+      "subject_description": "The main subjects in this picture are two people sitting at a table, with a bridge and a body of water in the background. The most important interaction in the picture is the conversation between the two people at the table.",
+      "striking_details": "buildings, people, table, bottle",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_blackhead-monhegan-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a rocky cliff and the ocean. The most important interaction is the contrast between the rugged texture of the cliff and the smooth, flowing surface of the water.",
+      "striking_details": "rock, water, cliff, sky, brush",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_blue-night.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively social gathering with a touch of surrealism.",
+      "subject_description": "The main subjects in this picture are a group of people sitting at a table in a restaurant. The most important interaction is between a clown and a woman, as they are the only two characters facing each other.",
+      "striking_details": "moon, woman, clown, table, wine glass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_burly-cobb-hen-coop-and-barn.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape.",
+      "subject_description": "The main subjects in this picture are a small building, a tree, and a lamp post. The most important interaction is the interplay of light and shadow on the building and the surrounding landscape.",
+      "striking_details": "house, barn, field, sky, tree",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_cape-cod-afternoon.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the rural landscape.",
+      "subject_description": "The main subjects in this picture are a group of houses and a field. The most important interaction is the interplay of light and shadow on the houses and the field, creating a sense of depth and perspective.",
+      "striking_details": "house, sky, grass, chimney, window",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_cape-cod-evening.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a dog resting in a field at dusk, under a blue sky.",
+      "subject_description": "The main subjects in this picture are a dog and a house. The most important interaction is the dog lying in the grass in front of the house, suggesting a sense of relaxation and companionship.",
+      "striking_details": "house, dog, grass, tree, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_cape-cod-morning.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman looking out a window onto a beautiful landscape.",
+      "subject_description": "The main subjects in this picture are a woman and a window. The most important interaction is the woman looking out of the window.",
+      "striking_details": "window, shutters, woman, dress, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_carolina-morning.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a woman standing on a porch overlooking a field.",
+      "subject_description": "The main subjects in this picture are a woman standing on a porch and a man standing on the sidewalk. The most important interaction in the picture is the woman looking out the door towards the man.",
+      "striking_details": "woman, dress, hat, stairs, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_chair-car-1965.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with passengers sitting in their seats, waiting for their journey to begin.",
+      "subject_description": "The main subjects of the picture are a woman sitting in a chair and reading a book. The most important interaction in the picture is the woman's engagement with the book she is reading.",
+      "striking_details": "chairs, people, windows, floor",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_coast-guard-station.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a house by the water and a flag flying in the background.",
+      "subject_description": "The main subjects in this picture are a house, a flag, and a body of water. The most important interaction is the flag on the house, which is flying high and is the focal point of the composition.",
+      "striking_details": "house, flag, water, rocks, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_compartment-car.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of quiet solitude.",
+      "subject_description": "The main subjects in the picture are a woman and a book. The most important interaction is the woman reading the book.",
+      "striking_details": "woman, hat, book, couch, window",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_conference-at-night.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a blend of seriousness and casualness, with a touch of mystery.",
+      "subject_description": "The main subjects in this picture are three people in a room. The most important interaction is a man and a woman talking to each other, while another man listens.",
+      "striking_details": "hat, bench, window, suit",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_corn-hill.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of solitude and tranquility.",
+      "subject_description": "The main subjects in this picture are a series of houses on a hill, with a path leading up to them. The most important interaction in the picture is the perspective, which draws the viewer's eye up the hill towards the houses.",
+      "striking_details": "houses, hill, sky, grass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_d-r-g-locomotive.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is nostalgic and serene, with a focus on the old-fashioned train traveling through a peaceful landscape.",
+      "subject_description": "The main subjects of the picture are a train and a cloudy sky. The most important interaction in the picture is the train moving through the sky, as depicted by the artist's representation of the scene.",
+      "striking_details": "train, sky, clouds, tracks",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_davis-house.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the architectural details of the houses and the presence of trees.",
+      "subject_description": "The main subjects in this picture are two houses, with one house featuring a prominent staircase. The most important interaction in the picture is the staircase leading up to the house, which connects the ground level to the upper levels.",
+      "striking_details": "house, tree, fence, stairs, door",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_deck-of-a-beam-trawler-gloucester.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the calmness of the water and the tranquility of the boat.",
+      "subject_description": "The main subjects of the picture are a boat and a fire hydrant. The most important interaction in the picture is the boat's mast, which is positioned in front of the fire hydrant.",
+      "striking_details": "ship, mast, sail, anchor",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_drug-store-1927.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the pharmacy's sign and the storefront.",
+      "subject_description": "The main subjects in this picture are a pharmacy storefront and a street scene. The most important interaction is the display of prescription drugs in the storefront window, which is the focal point of the image.",
+      "striking_details": "pharmacy, prescription drugs, ex-lax, storefront, night",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_early-sunday-morning.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on the red brick building and the barber shop.",
+      "subject_description": "The main subjects in this picture are a barber shop and a barber pole. The most important interaction is the reflection of the barber pole in the window of the barber shop.",
+      "striking_details": "building, street, pole, fire hydrant",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_east-side-interior.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a woman and a child, both sitting in a room. The most important interaction is the woman looking out the window, while the child is looking at her.",
+      "striking_details": "window, lamp, chair, picture frame",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_el-palacio.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the old buildings and the sky.",
+      "subject_description": "The main subjects in this picture are a row of buildings, possibly a town or city, with a prominent sign for a hotel. The most important interaction is the sign for the hotel, which is likely to be a focal point for visitors and residents alike.",
+      "striking_details": "buildings, sky, mountains, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_eleven-a-m.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the nude woman sitting in a chair by the window.",
+      "subject_description": "The main subjects in this picture are a woman sitting in a chair and a window. The most important interaction in the picture is the woman looking out of the window.",
+      "striking_details": "chair, window, lamp, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_elizabeth-griffiths-smith-hopper-the-artist-s-mother-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the elderly woman in a purple dress sitting in a chair, looking off to the side.",
+      "subject_description": "The main subject of the painting is an elderly woman, depicted in a realistic style. The most important interaction in the picture is her gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "dress, hat, chair, wall, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_evening-wind.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and dramatic, with a focus on the nude woman and the window.",
+      "subject_description": "The main subjects in this picture are a woman and a bed. The most important interaction is the woman's engagement with the bed, as she is either sitting or kneeling on it.",
+      "striking_details": "woman, bed, curtain, window, room",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_first-branch-of-the-white-river-vermont.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a river, a road, and a mountain. The most important interaction is the reflection of the trees and the road in the river, creating a harmonious and picturesque scene.",
+      "striking_details": "river, trees, mountains, road, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_first-row-orchestra.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is formal and elegant, with a sense of anticipation and excitement.",
+      "subject_description": "The main subjects in the picture are a group of people sitting in a theater. The most important interaction is a woman sitting in the front row, looking at a man who is sitting in the back row.",
+      "striking_details": "stage, curtain, audience, theater, seats",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_five-a-m.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and tranquil, with a lighthouse standing in the middle of a frozen lake, surrounded by snow-covered mountains and a factory in the background.",
+      "subject_description": "The main subjects in the picture are a lighthouse, a factory, and a body of water. The most important interaction is the lighthouse's presence, guiding ships in the water, while the factory in the background represents industrial activity.",
+      "striking_details": "lighthouse, water, sky, land",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_funell-of-trawler.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on the boats and the water.",
+      "subject_description": "The main subjects of the picture are boats, with a prominent focus on a large ship. The most important interaction in the image is the interplay of light and shadow, creating a sense of depth and perspective.",
+      "striking_details": "boat, pole, rope, shadow, water",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_girl-at-a-sewing-machine.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on the woman's sewing activity. The warm colors and soft lighting contribute to a peaceful and inviting setting.",
+      "subject_description": "The main subjects in this picture are a woman and a sewing machine. The most important interaction is the woman sewing on a piece of fabric.",
+      "striking_details": "sewing machine, window, chair, table",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_gloucester-harbor.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the boats and houses in the harbor.",
+      "subject_description": "The main subjects in this picture are a harbor filled with sailboats and houses. The most important interaction is the reflection of the houses on the water, creating a serene and picturesque scene.",
+      "striking_details": "house, boat, water, fence, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_gloucester-mansion.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a rural scene with houses and a boat.",
+      "subject_description": "The main subjects of the picture are a house, a barn, and a boat. The most important interaction in the picture is the boat's position in front of the house, suggesting a connection between the house and the water.",
+      "striking_details": "house, boat, grass, sky, chimney",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_hotel-by-a-railroad.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of quiet introspection.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction is the man holding a cigarette and looking out the window, while the woman is sitting and reading a book.",
+      "striking_details": "mirror, man, woman, book, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_hotel-window.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a woman sitting alone in a dimly lit room.",
+      "subject_description": "The main subjects in this picture are a woman sitting on a blue couch and a lamp on a table. The most important interaction is the woman looking out the window.",
+      "striking_details": "woman, couch, window, lamp, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_house-at-dusk.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the interplay of light and shadow.",
+      "subject_description": "The main subjects in this picture are a large building with multiple windows and a tree. The most important interaction is the interplay of light and shadow on the building and the tree, highlighting their architectural and natural features.",
+      "striking_details": "building, sky, trees, windows",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_house-at-the-fort-gloucester.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a tranquil coastal scene with a house on a rocky shore.",
+      "subject_description": "The main subjects in this picture are a house and a body of water. The most important interaction is the reflection of the house in the water, which adds depth and interest to the scene.",
+      "striking_details": "house, sky, water, rocks",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_house-by-the-railroad.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and somewhat melancholic, with the large, old house standing alone against a clear sky.",
+      "subject_description": "The main subjects in this picture are a large, ornate house with a prominent tower and a red roof. The most important interaction in the picture is the contrast between the dark, shadowy areas of the house and the lighter, more illuminated areas, which creates a sense of depth and dimension.",
+      "striking_details": "house, sky, windows, roof, pillars",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_houses-of-squam-light-gloucester-1923.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the rural landscape and the houses.",
+      "subject_description": "The main subjects in this picture are two houses, a barn, and a field with rocks and grass. The most important interaction is the juxtaposition of the houses and the natural landscape, highlighting the coexistence of human-made structures and nature.",
+      "striking_details": "house, sky, grass, rocks, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_intermission-also-known-as-intermedio.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and contemplative, with a woman sitting alone in an empty theater.",
+      "subject_description": "The main subjects in this picture are a woman sitting in a chair and an empty chair next to her. The most important interaction in the picture is the woman's gaze directed towards the empty chair, which suggests a sense of anticipation or solitude.",
+      "striking_details": "woman, chair, wall, door, floor",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_jo-painting.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with the woman's gaze directed upwards, possibly towards the sky.",
+      "subject_description": "The main subject of the painting is a woman with red hair. The most important interaction in the picture is the woman's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "hair, woman, blue, white, necklace",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_light-at-two-lights.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the lighthouse and the surrounding houses.",
+      "subject_description": "The main subjects in this picture are a lighthouse and a house. The most important interaction is the lighthouse's function of guiding ships, which is depicted in the painting.",
+      "striking_details": "lighthouse, house, chimney, sky, grass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_lighthouse-and-buildings-portland-head-cape-elizabeth-maine-1927.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a lighthouse and houses by the ocean.",
+      "subject_description": "The main subjects in this picture are a lighthouse and a house. The most important interaction is the lighthouse's presence, which serves as a guiding light for the house and the surrounding area.",
+      "striking_details": "lighthouse, house, ocean, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_lighthouse-at-two-lights-1929.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a lighthouse and houses set against a beautiful sky.",
+      "subject_description": "The main subjects in this picture are a lighthouse and a house. The most important interaction is the lighthouse's presence, which serves as a guiding light for the house and the surrounding area.",
+      "striking_details": "lighthouse, sky, clouds, house",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_lighthouse-hill.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a lighthouse standing on a hill overlooking a house.",
+      "subject_description": "The main subjects in this picture are a lighthouse and a house on a hill. The most important interaction is the lighthouse's function of guiding ships at sea, while the house on the hill serves as a residence for the lighthouse keeper.",
+      "striking_details": "lighthouse, house, sky, grass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_male-nude-1904.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of vulnerability and introspection.",
+      "subject_description": "The main subjects of the picture are a man and a woman. The most important interaction in the picture is the man looking at the woman.",
+      "striking_details": "The image depicts a nude man, a grassy area, a building, a person in the background, and a fence.",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_model-sitting.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the woman sitting alone in a dark room.",
+      "subject_description": "The main subjects in this picture are a woman and a painting. The most important interaction is the woman touching her dress, which is located near the painting.",
+      "striking_details": "dress, box, floor, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_moonlight-interior.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and intimate, with a focus on the interplay of light and shadow.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman bending over the man, who is lying on a bed.",
+      "striking_details": "window, building, light, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_morning-in-a-city.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and intimate, with a focus on the nude woman in the bedroom.",
+      "subject_description": "The main subjects in this picture are a nude woman and a bed. The most important interaction is the woman holding a white cloth, which suggests she might be preparing for bed or just finished getting dressed.",
+      "striking_details": "window, bed, dress, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_morning-sun.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and contemplative, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a woman sitting on a bed and looking out of a window. The most important interaction in the picture is the woman's gaze directed towards the window, which suggests she might be observing something outside.",
+      "striking_details": "woman, bed, window, building, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_new-york-office.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the woman at the counter.",
+      "subject_description": "The main subjects in this picture are a woman standing at a counter and a man sitting at the counter. The most important interaction in the picture is the woman handing a piece of paper to the man.",
+      "striking_details": "building, woman, counter, street, light",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_new-york-restaurant-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is social and lively, with a group of people gathered around a table, engaged in conversation.",
+      "subject_description": "The main subjects in this picture are a group of people, likely in a social setting, with the most important interaction being a man and a woman engaged in conversation.",
+      "striking_details": "door, people, table, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_new-york-restaurant.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively social gathering, with people engaged in conversation and enjoying their time at the restaurant.",
+      "subject_description": "The main subjects in this picture are people in a restaurant setting. The most important interaction is a man in a red hat talking to a woman in a white dress.",
+      "striking_details": "Edward Hopper, New York Restaurant, 1922, people, table, chairs",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_night-windows.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the windows and the interior of the room.",
+      "subject_description": "The main subjects in this picture are a person and a room. The most important interaction is the person looking out of the window, which is a common theme in art, often used to convey a sense of contemplation or introspection.",
+      "striking_details": "window, room, couch, radiator, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235596(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the river and the architectural charm of the buildings.",
+      "subject_description": "The main subjects in this picture are a bridge, a river, and buildings. The most important interaction is the reflection of the buildings on the river, creating a harmonious blend of architecture and nature.",
+      "striking_details": "buildings, bridge, sky, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235602(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the rural setting and the old houses.",
+      "subject_description": "The main subjects in this picture are a group of houses and a tree. The most important interaction is the shadow cast by the tree on the grass in front of the houses.",
+      "striking_details": "house, roof, sky, grass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235603.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the architectural beauty of the building and the tranquil waterway.",
+      "subject_description": "The main subjects in this picture are a large building, a bridge, and a river. The most important interaction is the reflection of the building on the river, creating a symmetrical composition.",
+      "striking_details": "building, bridge, water, sky, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235604.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of calmness.",
+      "subject_description": "The main subjects in this picture are a woman in a blue dress and a man in a black hat. The most important interaction in the picture is the woman kneeling down next to the man, who is lying on the ground.",
+      "striking_details": "pillar, window, hat, building",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235608.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a rural landscape with farm buildings and a distant view of a town.",
+      "subject_description": "The main subjects in this picture are a red barn, a white house, and a landscape. The most important interaction in the picture is the contrast between the red barn and the white house, which stand out against the landscape.",
+      "striking_details": "barn, house, field, hill, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235609.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and dramatic, with a focus on the train and the sky.",
+      "subject_description": "The main subjects in this picture are a train and a hill. The most important interaction is the train's movement along the tracks, which is depicted in the painting.",
+      "striking_details": "train, tracks, sky, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235610.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and contemplative, with a man sitting at a desk, looking out a window at a cityscape.",
+      "subject_description": "The main subjects in this picture are a man sitting at a desk and a cityscape visible through a window. The most important interaction is the man's engagement with the cityscape, possibly suggesting a contemplative or thoughtful moment.",
+      "striking_details": "window, man, table, cityscape",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_not_detected_235611.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman standing in the doorway of a white house, looking out into the blue sky.",
+      "subject_description": "The main subjects in this picture are a woman standing in the doorway of a white house with a red chimney. The most important interaction is the woman looking out of the house, possibly observing the surroundings or waiting for someone.",
+      "striking_details": "house, sky, chimney, woman, door",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_notre-dame.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the architectural beauty of the church.",
+      "subject_description": "The main subjects of the picture are a large cathedral and a tree. The most important interaction in the picture is the interplay between the architectural details of the cathedral and the natural elements of the tree.",
+      "striking_details": "church, tower, trees, sky, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_paris-street.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is quiet and serene, with a focus on the architectural details of the buildings.",
+      "subject_description": "The main subjects in this picture are a building and a street. The most important interaction is the perspective of the street leading towards the building, creating a sense of depth and distance.",
+      "striking_details": "buildings, windows, door, street",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_people-in-the-sun.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with people sitting in chairs and enjoying the view of the mountains and the sky.",
+      "subject_description": "The main subjects in this picture are a group of people sitting in chairs on a sidewalk. The most important interaction is a man reading a book while the others are looking out at the landscape.",
+      "striking_details": "chair, man, book, shadow, mountains",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_prizewinning-world-war-i-patriotic-poster.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vintage and nostalgic, with a focus on historical context and a sense of the past.",
+      "subject_description": "The main subjects in the picture are a man and a hammer. The most important interaction is the man swinging the hammer, which is depicted in a dynamic and powerful manner.",
+      "striking_details": "The Morse dial, February 1919, poster, man, hammer, blue, white, brown, black, red, yellow, orange, green, water, art, watermark, website, www, the, morse, dial, february, 1919, poster, man, hammer, blue, white, brown, black, red, yellow, orange, green, water, art, watermark, website, www, the, morse, dial, february, 1919, poster, man, hammer, blue, white, brown, black, red, yellow, orange, green, water, art, watermark, website, www, the, morse, dial, february, 1919, poster, man, hammer, blue, white, brown, black, red, yellow, orange, green, water, art, watermark, website, www, the, morse, dial, febru",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_queensborough-bridge.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the bridge and the water.",
+      "subject_description": "The main subjects in this picture are a bridge, a house, and a boat. The most important interaction is the reflection of the bridge in the water, creating a symmetrical composition.",
+      "striking_details": "bridge, water, boat, house, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_railroad-crossing.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of solitude and tranquility.",
+      "subject_description": "The main subjects in this picture are a train track, a house, and a tree. The most important interaction is the train track leading towards the house, which is partially obscured by the tree.",
+      "striking_details": "trees, railroad tracks, house, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_railroad-sunset.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a warm and inviting color palette.",
+      "subject_description": "The main subjects in this picture are a fire tower, a telephone pole, and a sunset. The most important interaction is the silhouette of the fire tower against the vibrant colors of the sunset, creating a striking contrast.",
+      "striking_details": "tower, sky, sunset, clouds, hills",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_read-pavillonde-flore.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the architectural beauty of the building and the natural elements of the trees and sky.",
+      "subject_description": "The main subjects in this picture are a large building and a smaller structure, possibly a shed or a barn. The most important interaction in the picture is the contrast between the grandeur of the building and the simplicity of the shed, highlighting the differences in architectural styles and purposes.",
+      "striking_details": "building, sky, trees, roof",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_reclining-nude.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is relaxed and intimate, with a sense of comfort and privacy.",
+      "subject_description": "The main subjects in this picture are a person and a couch. The most important interaction is the person lying on the couch, with their legs crossed and their head resting on a pillow. The painting is done in a realistic style, capturing the details of the scene.",
+      "striking_details": "couch, pillow, leg, foot, color",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_road-in-maine.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape.",
+      "subject_description": "The main subjects in this picture are a path leading through a field, with a rocky hill in the background. The most important interaction in the picture is the path leading towards the hill, creating a sense of depth and perspective.",
+      "striking_details": "hill, sky, path, grass",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_rocks-at-the-fort-gloucester.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of tranquility and solitude.",
+      "subject_description": "The main subjects in this picture are a man, a dog, and a house. The most important interaction in the picture is the man walking the dog past the house.",
+      "striking_details": "house, dog, person, hill, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_rooms-by-the-sea.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and calm, with a focus on the open door leading to a tranquil ocean view.",
+      "subject_description": "The main subjects in this picture are a door, a room, and a view of the ocean. The most important interaction is the transition from the indoor space to the outdoor space, as the door opens to reveal the ocean view.",
+      "striking_details": "wall, door, ocean, shadow, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_second-story-sunlight.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the two people enjoying a quiet moment together.",
+      "subject_description": "The main subjects in this picture are two people, a man and a woman, sitting on a porch of a house. The most important interaction in the picture is the woman reading a book while the man looks on.",
+      "striking_details": "house, tree, balcony, woman, book",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_self-portrait-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and intense, with the man's serious expression and the dark background.",
+      "subject_description": "The main subject of the picture is a man, depicted in a realistic style. The most important interaction in the picture is the man's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "The image is a portrait, featuring a man with a serious expression. He has short hair and is wearing a dark suit with a white shirt. The background is dark, which contrasts with the man's light skin tone. The overall style of the image is realistic.",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_self-portrait-1930.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the man in a hat and suit looking off to the side.",
+      "subject_description": "The main subject of the picture is a man wearing a hat and a suit. The most important interaction in the picture is the man's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "hat, man, blue shirt, brown coat, white wall",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_self-portrait.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the man's serious expression and the dark background.",
+      "subject_description": "The main subject of the painting is a man, depicted in a three-quarter view. The most important interaction in the picture is the man's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "The image depicts a man, a suit, a tie, a collar, and a background.",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_seven-a-m.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the white building and the clock.",
+      "subject_description": "The main subjects in this picture are a white building with a clock on its side, a storefront with a display of items, and a tree in the background. The most important interaction in the picture is the clock on the building, which is positioned to be visible from the street.",
+      "striking_details": "clock, bottle, door, window",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_shakespeare-at-dusk.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a hint of melancholy.",
+      "subject_description": "The main subjects in this picture are a person, a statue, and a park setting. The most important interaction is the person walking past the statue in the park.",
+      "striking_details": "park, statue, trees, sidewalk, buildings",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_south-truro-church.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with the church standing alone in a vast, open field.",
+      "subject_description": "The main subjects in this picture are a church and a fence. The most important interaction is the church's presence in the foreground, with the fence in the background, creating a sense of depth and perspective.",
+      "striking_details": "church, sky, fence, door, tower",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_squam-light.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape and the lighthouse.",
+      "subject_description": "The main subjects in this picture are a lighthouse, a house, and a boat. The most important interaction is the lighthouse's role in guiding the boat, which is a common function of lighthouses in coastal areas.",
+      "striking_details": "lighthouse, house, tree, boat, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_stairway-at-48-rue-de-lille-paris.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the staircase and the shadows it casts.",
+      "subject_description": "The main subjects in this picture are a staircase and a railing. The most important interaction is the railing's support of the staircase, ensuring safety and stability.",
+      "striking_details": "staircase, railing, door, steps, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_stepsin-paris.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with a focus on the staircase and the building's architecture.",
+      "subject_description": "The main subjects in this picture are a staircase and a building. The most important interaction is the staircase leading up to the building, suggesting movement and accessibility.",
+      "striking_details": "stairs, roof, sky, railing",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_study-of-a-seated-woman.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the woman sitting alone on a bench, possibly lost in thought.",
+      "subject_description": "The main subjects in this picture are a woman and a chair. The most important interaction is the woman sitting on the chair.",
+      "striking_details": "dress, chair, shadow, hair, pencil",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_study-of-a-standing-woman.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is elegant and classic, with a touch of sophistication.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman holding a cigarette in her hand.",
+      "striking_details": "hat, dress, cigarette, handbag, signature",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_summer-in-the-city-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman sitting on a couch, looking out a window, while the man lies on the couch behind her.",
+      "striking_details": "couch, window, woman, man, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_summer-interior.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is intimate and introspective, with a focus on the woman's solitude and contemplation.",
+      "subject_description": "The main subjects in this picture are a woman and a bed. The most important interaction is the woman sitting on the bed, which is a common activity in a bedroom setting.",
+      "striking_details": "bed, woman, room, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_summertime.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of elegance and timelessness.",
+      "subject_description": "The main subjects in this picture are a woman standing on a sidewalk in front of a building, wearing a white dress and a hat. The most important interaction in the picture is the woman's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "woman, dress, stairs, building, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_sun-in-an-empty-room.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on simplicity and minimalism.",
+      "subject_description": "The main subjects in this picture are a window, a door, and a wall. The most important interaction is the interplay of light and shadow, creating a sense of depth and perspective.",
+      "striking_details": "wall, window, door, shadow, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_sunday.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the man sitting alone on the sidewalk, possibly reflecting on his life or the world around him.",
+      "subject_description": "The main subjects in this picture are a man sitting on a curb and a building. The most important interaction is the man's gaze directed towards the building, which suggests a contemplative or introspective mood.",
+      "striking_details": "building, man, sidewalk, windows",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_sunlight-on-brownstones.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a couple sitting on a staircase, enjoying the view of the city and the sky.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction is the man cutting the woman's hair.",
+      "striking_details": "building, man, woman, stairs, railing",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_sunlights-in-cafeteria.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and quiet, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a man and a woman sitting at separate tables in a restaurant. The most important interaction is the man talking to the woman.",
+      "striking_details": "table, chair, woman, man, potted plant",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-bootleggers.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a boat gently floating on a river near a large house.",
+      "subject_description": "The main subjects in this picture are a large house and a boat with two people. The most important interaction in the image is the boat approaching the house, suggesting a connection between the two.",
+      "striking_details": "house, boat, people, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-bridge-of-art.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the bridge and the people walking on it.",
+      "subject_description": "The main subjects in this picture are a bridge and a river. The most important interaction is the reflection of the bridge on the river's surface.",
+      "striking_details": "bridge, people, boats, buildings, water",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-camel-s-hump.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape.",
+      "subject_description": "The main subjects in this picture are a mountain range and a valley. The most important interaction is the interplay of light and shadow on the landscape, highlighting the contours of the mountains and the texture of the valley.",
+      "striking_details": "hill, sky, grass, road",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-cat-boat.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of adventure and exploration.",
+      "subject_description": "The main subjects of the picture are a sailboat and two people. The most important interaction in the picture is the man steering the boat while the boy sits in the back, both of them looking towards the sail.",
+      "striking_details": "sailboat, man, woman, water, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-city.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is urban and somewhat somber, with a focus on architectural details and a muted color palette.",
+      "subject_description": "The main subjects in this picture are a tall building and a street scene. The most important interaction is the juxtaposition of the urban landscape with the architectural details of the building.",
+      "striking_details": "buildings, street, people, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-el-station.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on the architectural details of the buildings and the train station.",
+      "subject_description": "The main subjects in this picture are a train station, a building, and a fence. The most important interaction is the train station's proximity to the building, suggesting a connection between transportation and urban development.",
+      "striking_details": "house, train, platform, fence, chimney",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-long-leg.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sailboat gently floating on a calm body of water under a clear blue sky.",
+      "subject_description": "The main subjects in this picture are a sailboat and a lighthouse. The most important interaction is the sailboat's movement across the water, which is influenced by the wind. The lighthouse serves as a navigational aid for the sailboat, guiding it safely along the coast.",
+      "striking_details": "lighthouse, sailboat, water, sky, beach",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-mansard-roof-1923.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the architectural details of the house and the surrounding greenery.",
+      "subject_description": "The main subjects in this picture are a large house with a prominent yellow awning and a tree. The most important interaction in the picture is the shadow of the tree on the house, which adds depth and contrast to the scene.",
+      "striking_details": "house, tree, awning, chimney, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-monhegan-boat.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of nostalgia and history.",
+      "subject_description": "The main subjects of the picture are a group of people on a boat. The most important interaction is between the woman in the foreground and the people in the background, as she appears to be looking at them.",
+      "striking_details": "sailboat, people, ocean, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-new-bridge.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the architectural details of the buildings and the calmness of the waterway.",
+      "subject_description": "The main subjects in this picture are a bridge, a boat, and a cityscape. The most important interaction is the boat passing under the bridge.",
+      "striking_details": "buildings, bridge, sky, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_the-quaid-grands-augustins.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the calm river and the architectural beauty of the buildings.",
+      "subject_description": "The main subjects in this picture are a river, a bridge, and a cityscape. The most important interaction is the bridge connecting the cityscape and the river, providing a passage for people and vehicles.",
+      "striking_details": "buildings, bridge, sky, road",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_tramp-steamer.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and calm, depicting a ship sailing on a vast body of water.",
+      "subject_description": "The main subjects of the painting are a large ship and a smaller boat. The most important interaction depicted is the ship's collision with the smaller boat, as indicated by the ship's bow crashing into the smaller boat.",
+      "striking_details": "ship, sails, water, sky, smoke",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_two-comedians.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and artistic, with a focus on the two figures standing together.",
+      "subject_description": "The main subjects in the picture are two people standing on a balcony. The most important interaction is the hand-holding between the two individuals, which suggests a close relationship or connection.",
+      "striking_details": "The image depicts two figures, a man and a woman, both dressed in white. They are standing on a balcony, which is set against a dark blue background. The figures are positioned in the center of the image, and the overall style of the artwork is impressionistic.",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_two-on-the-aisle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is formal and elegant, with a focus on the characters and their interactions.",
+      "subject_description": "The main subjects in the picture are a man, a woman, and a child. The most important interaction is the man standing and talking to the woman and child who are sitting.",
+      "striking_details": "theater, curtain, man, woman, book",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_untitled.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vintage and nostalgic, with a focus on the elegance and style of the woman's attire.",
+      "subject_description": "The main subjects in this picture are a woman wearing a hat and a long dress. The most important interaction in the picture is the woman's gaze, which is directed towards the viewer.",
+      "striking_details": "dress, hat, sketch, paper, pencil",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_valley-of-the-seine.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural landscape and the bridge.",
+      "subject_description": "The main subjects in this picture are a bridge, a river, and a town. The most important interaction is the bridge connecting the town to the other side of the river.",
+      "striking_details": "bridge, houses, boats, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_western-motel.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and contemplative, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a woman, a couch, and a suitcase. The most important interaction is the woman sitting on the couch, looking out the window, with the suitcase nearby.",
+      "striking_details": "woman, couch, suitcase, window, car",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_white-river-at-sharon.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a body of water, a rocky shore, and a tree. The most important interaction in the picture is the reflection of the tree on the water's surface.",
+      "striking_details": "sky, clouds, trees, rocks, water",
+      "status": "success"
+    },
+    {
+      "image_name": "edward-hopper_woman-in-the-sun.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with a focus on the nude woman standing in a bedroom, looking out the window.",
+      "subject_description": "The main subjects in this picture are a nude woman standing in a bedroom, a bed, and a window. The most important interaction is the woman looking out the window, which suggests a contemplative or introspective mood.",
+      "striking_details": "window, bed, shoes, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_a-foggy-night.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and atmospheric, with a focus on the contrast between the dark carriage and the brightly lit cathedral in the background.",
+      "subject_description": "The main subjects in this picture are a horse-drawn carriage and a man standing nearby. The most important interaction is the man holding the reins of the horse, controlling the carriage.",
+      "striking_details": "carriage, man, horse, street, building",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_allen-street-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, depicting a busy market scene with people and goods.",
+      "subject_description": "The main subjects in this picture are a group of people, a market scene, and a staircase. The most important interaction is between the people and the market stalls, as they are engaged in buying and selling activities.",
+      "striking_details": "chairs, people, stairs, buildings",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_bleeker-and-carmine-streets.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, with a crowd of people gathered on a city street at night.",
+      "subject_description": "The main subjects of the painting are a group of people standing outside a building, possibly a store or a restaurant. The most important interaction in the painting is the interaction between the people and the building, as they are gathered around it, possibly waiting to enter or engaging in conversation.",
+      "striking_details": "building, people, street, night",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_blue-devils-on-fifth-avenue-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and patriotic, with a large group of people marching down a street, carrying a flag.",
+      "subject_description": "The main subjects in the picture are a group of people and a flag. The most important interaction is the people marching in formation, carrying the flag.",
+      "striking_details": "American flag, crowd, building, street",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_boy-with-blue-cap.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with a focus on the child's face.",
+      "subject_description": "The main subject of the painting is a young child, depicted in a realistic style. The most important interaction in the painting is the child's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "blue hat, dark background, child's face, white hands, black dress",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_boy-with-suspenders.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and melancholic, with the child's expression and the dark background contributing to a sense of sadness.",
+      "subject_description": "The main subject of the picture is a young child, likely a boy, depicted in a realistic style. The most important interaction in the picture is the child's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "overalls, red scarf, blue shirt, green grass, brown hair",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_breaking-surf.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and intense, with a focus on the powerful waves and the dark sky.",
+      "subject_description": "The main subjects in this picture are the ocean and a wave. The most important interaction is the wave crashing onto the shore, creating a dynamic and powerful scene.",
+      "striking_details": "ocean, waves, sky, clouds, sea",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_brooklyn-bridge-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the snowy cityscape and the bridge.",
+      "subject_description": "The main subjects of the painting are a bridge and a cityscape. The most important interaction is the bridge's connection to the city, symbolizing the city's connection to the outside world.",
+      "striking_details": "buildings, bridge, snow, sky, houses",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_butts-1928.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with a focus on the child's face.",
+      "subject_description": "The main subject of the picture is a young boy, depicted in a realistic style. The most important interaction in the picture is the boy's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "The image is a painting, featuring a young boy, a dark background, a black coat, a white shirt, and a red tie.",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_cafe-scene-a-study-of-a-young-woman.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the woman's thoughtful expression.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman holding a cup, while the man is looking at her.",
+      "striking_details": "cup, table, checkered tablecloth, hat, man",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_caricature-of-everett-shinn.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is melancholic and somber, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a person wearing a hat and a coat, depicted in a sketch or painting style. The most important interaction in the picture is the person's movement, as they are walking or running.",
+      "striking_details": "hat, coat, shoes, water, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_child-with-a-toy-1919.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and inviting, with a focus on the child's joyful expression.",
+      "subject_description": "The main subjects in this picture are a baby and a ball. The most important interaction is the baby holding the ball.",
+      "striking_details": "baby, smile, blanket, room, light",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_city-scene.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of industrial decay.",
+      "subject_description": "The main subjects in this picture are a group of people and a horse. The most important interaction is a man reading a newspaper while standing on a bridge.",
+      "striking_details": "buildings, bridge, people, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_copley-square.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the nighttime cityscape.",
+      "subject_description": "The main subjects in this picture are a large building, a street, and a group of people. The most important interaction is between the people and the building, as they are walking on the street in front of the building.",
+      "striking_details": "building, street, people, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_drawing-of-eliza-doolittle-a-character-from-george-bernard-shaw-s-play-pygmalion.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is nostalgic and artistic, with a focus on the woman's face and the signature of the artist.",
+      "subject_description": "The main subject of the picture is a woman wearing a hat. The most important interaction in the picture is the woman's smile, which is directed towards the viewer.",
+      "striking_details": "hat, scarf, smile, signature, portrait",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_flyweight-champion-of-jumel-place-1920.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the young boy's thoughtful expression.",
+      "subject_description": "The main subjects in the picture are a person and a hat. The most important interaction is the person wearing the hat, looking directly at the viewer.",
+      "striking_details": "hat, collar, eyes, hair",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_frank-crane.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is melancholic and somewhat eerie, with the man's face appearing distorted and the smoke adding to the somber mood.",
+      "subject_description": "The main subjects in the picture are a man and a dog. The most important interaction is the man holding the dog's leash.",
+      "striking_details": "The image is a sketch, so it's not a photograph. It features a man, a hat, a cane, a pipe, and a dog.",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_girl-with-doll.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and intimate, with a sense of love and care between the woman and the child. The use of bright colors and the close-up composition contribute to this emotional tone.",
+      "subject_description": "The main subjects in this picture are a woman and a child. The most important interaction depicted is the woman holding the child, which is a common and significant gesture of care and love.",
+      "striking_details": "doll, girl, red, blonde, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_havana-cuba-1896.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and melancholic, with a focus on the woman's solitude and the stillness of the scene.",
+      "subject_description": "The main subjects in the picture are a woman and a bowl of fruit. The most important interaction is the woman holding the bowl of fruit.",
+      "striking_details": "bowl, woman, pot, table, water",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_hitch-team-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a horse-drawn carriage traveling through a snowy landscape.",
+      "subject_description": "The main subjects of the painting are a man, two horses, and a carriage. The most important interaction is the man driving the carriage, guiding the horses through the snowy landscape.",
+      "striking_details": "horse, carriage, snow, fence, boat",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_hobo-musician.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with the man in a hat and beard playing a guitar.",
+      "subject_description": "The main subjects in this picture are a man playing a guitar. The most important interaction in the picture is the man's hand on the guitar's strings, which is the focal point of the artwork.",
+      "striking_details": "hat, beard, guitar, hand, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_in-the-corner.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and intimate, with a sense of closeness and affection between the two children.",
+      "subject_description": "The main subjects in this picture are a young boy and a young girl. The most important interaction is the boy hugging the girl from behind.",
+      "striking_details": "hat, dress, shoes, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_jack-and-russell-burke.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is cheerful and whimsical, with two children dressed in colorful costumes, standing next to a table with fruit.",
+      "subject_description": "The main subjects of the picture are two children, a boy and a girl, dressed in costumes. The most important interaction in the picture is the boy holding the girl's hand, suggesting a close relationship between them.",
+      "striking_details": "red robe, yellow robe, fruit, table, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_knitting-for-the-soldiers-high-bridge-park.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a winter scene with a group of people gathered around a carriage, possibly preparing for a journey or a social event. The painting captures a sense of warmth and togetherness despite the cold weather.",
+      "subject_description": "The main subjects of the painting are a group of people, including children, gathered around a bench in a snowy setting. The most important interaction depicted is the sharing of a book among the group, suggesting a moment of communal learning or storytelling.",
+      "striking_details": "tree, bench, snow, people",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_lily-williams.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with the child's green coat standing out against the dark background.",
+      "subject_description": "The main subject of the picture is a young girl, who is wearing a green coat and a hat. The most important interaction in the picture is the girl's gaze, which is directed towards the viewer.",
+      "striking_details": "green coat, black hat, blue eyes, red scarf, white dress",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_little-lore-with-her-hat.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and melancholic, with the child's sad expression and the dark background.",
+      "subject_description": "The main subjects in this picture are a young child and a white dog. The most important interaction is the child's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "dress, ruffles, hair, wall, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_main-entrance-luxembourg-garden-paris.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in the picture are a group of people and a large body of water. The most important interaction is the people standing on the shore, looking out at the water.",
+      "striking_details": "trees, people, flowers, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_man-with-a-monocle.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the man's serious expression and the dark background.",
+      "subject_description": "The main subjects in this picture are a man wearing a top hat and a monocle. The most important interaction in the picture is the man's gaze, which is directed towards the viewer.",
+      "striking_details": "hat, coat, tie, eye patch",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_old-schoolhouse-ryders.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a small house nestled in a field, surrounded by trees and a flag.",
+      "subject_description": "The main subjects in this picture are a small house, a flag, and trees. The most important interaction is the flag on the pole in front of the house, which is set against the backdrop of the trees and the sky.",
+      "striking_details": "house, flag, trees, field",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_old-woman.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the elderly woman sitting alone in a chair, possibly in a dark room.",
+      "subject_description": "The main subjects in this picture are an elderly woman and a wooden chair. The most important interaction in the painting is the woman's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "chair, woman, painting, brush, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_portrait-of-a-girl-in-black.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the young girl's serious expression and the dark background.",
+      "subject_description": "The main subjects of the painting are a young girl and a blue cloth. The most important interaction in the picture is the girl's hand resting on the cloth.",
+      "striking_details": "black dress, blue scarf, dark background, smiling face, white collar",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_portrait-of-a-young-girl-antoinette-kraushaar.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the woman in a blue dress sitting in a dark room.",
+      "subject_description": "The main subjects of the painting are a woman and a man. The most important interaction in the picture is the woman sitting on the man's lap.",
+      "striking_details": "dress, skirt, shoes, background",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_portrait-of-miss-ruth-breslin-1925.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with a focus on the young girl's expression.",
+      "subject_description": "The main subjects of the picture are a young girl and a vase of flowers. The most important interaction in the picture is the girl's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "dress, flowers, hair, table",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_prospect-park.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a group of people enjoying a leisurely day in a park.",
+      "subject_description": "The main subjects in this picture are a group of people sitting on a bench in a park. The most important interaction is a person reading a book, which is a common activity in a park setting.",
+      "striking_details": "trees, people, path, book",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_roundhouse-at-high-bridge.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and moody, with a focus on the smoke and the cityscape.",
+      "subject_description": "The main subjects in this picture are a city skyline, a river, and a bridge. The most important interaction is the smoke rising from the buildings, which is reflected in the river.",
+      "striking_details": "smoke, bridge, river, boat, buildings",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_seated-nude-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the nude woman's pose and the use of color.",
+      "subject_description": "The main subjects in this picture are a nude woman and a cup. The most important interaction is the woman's hand touching her hair, which is a common gesture for self-comfort or contemplation.",
+      "striking_details": "red couch, white cup, red curtain, white vase, white wall",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_seated-nude-with-bobbed-hair.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and somber, with the nude woman sitting in a dark room.",
+      "subject_description": "The main subjects in this picture are a nude woman and a blue background. The most important interaction in the picture is the woman's gaze directed towards the viewer, creating a sense of connection and intimacy.",
+      "striking_details": "woman, painting, nude, blue, yellow",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_spring-morning-houston-and-division-streets-new-york-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, depicting a busy city street filled with people and market stalls.",
+      "subject_description": "The main subjects of the painting are a group of women gathered around a market stall, with a man standing nearby. The most important interaction appears to be the exchange of goods or conversation between the women and the man.",
+      "striking_details": "flowers, people, buildings, street, market",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_st-botolph-street-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the people in the scene.",
+      "subject_description": "The main subjects of the painting are a group of people, with the most important interaction being a conversation between two individuals.",
+      "striking_details": "arch, curtain, people, steps, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "george-luks_the-wrestlers-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and intense, with a focus on the muscular bodies of the two men and the dark background.",
+      "subject_description": "The main subjects in the picture are two men. The most important interaction is one man holding the other man's head.",
+      "striking_details": "Muscle, Painting, Man, Art, Dark",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_a-gloucester-day.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a rocky shore, a body of water, and several boats. The most important interaction is the boats on the water, which are depicted in various sizes and positions, suggesting movement and activity.",
+      "striking_details": "sky, clouds, boats, rocks",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_a-window-on-the-street-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the woman sitting in a window, looking out with a thoughtful expression.",
+      "subject_description": "The main subjects in this picture are a woman and a vase of flowers. The most important interaction is the woman looking out the window, which is a common theme in art, often symbolizing contemplation or introspection.",
+      "striking_details": "window, curtain, woman, vase, brick",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_a-woman-s-work-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a woman hanging laundry on a clothesline in an urban setting. The colors are soft and the scene is peaceful.",
+      "subject_description": "The main subjects of the painting are a woman hanging laundry on a clothesline and a brick building. The most important interaction in the painting is the woman's engagement with her laundry, as she is actively involved in the process of drying her clothes.",
+      "striking_details": "window, clothesline, laundry, basket, building",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_back-room-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of solitude and contemplation.",
+      "subject_description": "The main subjects in this picture are a man sitting at a table and another man sitting at a different table. The most important interaction is the man sitting at the table looking out the window.",
+      "striking_details": "man, clock, table, chair, fireplace",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_backyards-greenwich-village-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a snowy scene and a cat sitting on a ledge.",
+      "subject_description": "The main subjects in this picture are a cat, a dog, and a person. The most important interaction is the cat walking on the snow-covered roof, while the dog and the person look on from below.",
+      "striking_details": "cat, snow, building, clothesline",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_blond-nude-and-flowers-1929.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and intimate, with a focus on the nude woman's relaxed and comfortable pose.",
+      "subject_description": "The main subjects of the picture are a nude woman and a bouquet of flowers. The most important interaction in the picture is the woman's gaze directed towards the flowers, which are placed on the bed next to her.",
+      "striking_details": "flowers, bed, nude, oil, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_blond-nude-with-orange-blue-couch-1925.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the nude woman and the orange.",
+      "subject_description": "The main subjects in this picture are a nude woman and an orange. The most important interaction is the woman holding the orange above her head.",
+      "striking_details": "apple, orange, nude, canvas, oil",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_boy-with-piccolo-1904.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with the boy holding a flute and looking directly at the viewer.",
+      "subject_description": "The main subjects of the painting are a young boy and a flute. The most important interaction in the picture is the boy playing the flute, as he is the central figure and the flute is the primary object of interest.",
+      "striking_details": "flute, boy, smile, dark, background",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_carol-with-red-curls-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with the woman's gaze directed off to the side, suggesting a sense of introspection or daydreaming.",
+      "subject_description": "The main subjects in this picture are a woman and a cat. The most important interaction is the woman's hand resting on the cat's back.",
+      "striking_details": "red hair, blue dress, white collar, gold buttons, pink pillow",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_chama-running-red-1925.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, depicting a cowboy riding a horse through a desert landscape.",
+      "subject_description": "The main subjects in this picture are a man on a horse, a river, and a mountain. The most important interaction in the picture is the man riding the horse, which is crossing the river.",
+      "striking_details": "horse, rider, mountains, river, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_chinese-restaurant-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively social gathering, with people enjoying food and drinks while a cat watches.",
+      "subject_description": "The main subjects in this picture are a group of people and a cat. The most important interaction is between the cat and the people, as the cat is looking up at the people, who are seated at a table.",
+      "striking_details": "cat, table, chair, hat",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_clown-making-up-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the solitary figure of a man in a white robe.",
+      "subject_description": "The main subjects in this picture are a person and a book. The most important interaction is the person holding the book, which suggests a moment of reading or studying.",
+      "striking_details": "candle, table, chair, robe",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_colored-girl-with-gold-and-silver.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and intimate, with a focus on the nude woman lying on a bed. The use of warm colors and the soft lighting contribute to a sense of relaxation and comfort.",
+      "subject_description": "The main subjects in this picture are a nude woman and a couch. The most important interaction in the image is the woman's pose, which suggests a sense of relaxation and comfort. The painting is a representation of the human form and the domestic setting, capturing a moment of tranquility.",
+      "striking_details": "couch, pillow, bed, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_cornelia-street-1920.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of urban decay and a flock of birds flying over a cityscape.",
+      "subject_description": "The main subjects of the picture are a tall building, a train, and a flock of birds. The most important interaction in the picture is the flock of birds flying around the tall building and the train.",
+      "striking_details": "buildings, birds, sky, train",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_country-road-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the rural landscape and the horse-drawn carriage.",
+      "subject_description": "The main subjects in this picture are a horse-drawn carriage, a tree, and a road. The most important interaction is the carriage being pulled by the horse, which is traveling down the road.",
+      "striking_details": "tree, horse, carriage, road, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_cover-of-the-june-1914-issue-of-the-masses.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and intense, with a sense of urgency and danger.",
+      "subject_description": "The main subjects of the picture are a man and a child. The most important interaction is the man holding the child, with the child seemingly being carried or protected by the man.",
+      "striking_details": "The Masses, June 1914, 10 cents, Class War in Colorado, Max Eastman, John Reed",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_daisy.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with the subject's dark clothing and the dark background contributing to a sense of melancholy.",
+      "subject_description": "The main subject of the painting is a woman, likely a portrait. The most important interaction in the picture is the woman's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "woman, portrait, hair, collar, background",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_deep-blue-sea-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and tranquil, depicting a calm ocean scene with a rocky shore.",
+      "subject_description": "The main subjects in this picture are the ocean, a rocky cliff, and a small island. The most important interaction is the contrast between the vastness of the ocean and the confined space of the island, emphasizing the isolation and grandeur of the natural landscape.",
+      "striking_details": "rock, ocean, waves, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_dust-storm-fifth-avenue-1906.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and dramatic, with a large group of people running through a city street during a storm.",
+      "subject_description": "The main subjects of this picture are a group of people, a horse-drawn carriage, and a building. The most important interaction in the picture is the people running towards the horse-drawn carriage, which is being pulled by a horse.",
+      "striking_details": "car, people, street, buildings",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_eagles-of-tesuque-1921.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the people and the landscape.",
+      "subject_description": "The main subjects of the picture are a group of people and a horse-drawn carriage. The most important interaction in the picture is the horse pulling the carriage, with the people riding in it.",
+      "striking_details": "buildings, people, horse, clouds, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_east-entrance-city-hall-philadelphia-1901.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, with a large crowd of people and horses gathered around a grand building.",
+      "subject_description": "The main subjects of the painting are a large building with a prominent archway, a horse-drawn carriage, and a crowd of people. The most important interaction in the painting is the carriage driver guiding the horse through the archway, with the crowd of people observing the scene.",
+      "striking_details": "horse, carriage, people, building, street",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_easter-eve-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the people and the flowers.",
+      "subject_description": "The main subjects in this picture are a group of people shopping in a market at night. The most important interaction is a woman holding an umbrella, seemingly engaged in conversation with another woman.",
+      "striking_details": "flowers, umbrella, people, storefront, display",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_election-night-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a large crowd of people gathered together in a busy street scene.",
+      "subject_description": "The main subjects in the picture are a group of people and a building. The most important interaction is a person holding a trumpet, playing it while the crowd watches.",
+      "striking_details": "building, crowd, hat, light, street",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_evening-arroyo.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dramatic and moody, with a stormy sky and a small town nestled in a valley.",
+      "subject_description": "The main subjects in this picture are a landscape and a sky. The most important interaction is the depiction of the sky's dramatic clouds over the landscape, which includes a town and a mountain.",
+      "striking_details": "sky, clouds, mountains, houses, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_fifth-avenue-new-york-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, capturing a busy city street filled with people and carriages.",
+      "subject_description": "The main subjects of the painting are a group of women walking down a city street. The most important interaction is between the women, as they are depicted in various states of movement and engagement with their surroundings. The artist has captured the essence of urban life and the social dynamics of the time period.",
+      "striking_details": "buildings, people, hats, carriages, street",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_fishing-port-gloucester-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the harbor and the boats.",
+      "subject_description": "The main subjects in this picture are a harbor filled with boats, a town with buildings, and a body of water. The most important interaction is the reflection of the town and boats on the water's surface, creating a harmonious and picturesque scene.",
+      "striking_details": "boats, houses, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_george-sotter-1902.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the man's face and the objects around him.",
+      "subject_description": "The main subjects of the picture are a man and a palette of paint. The most important interaction is the man holding a paintbrush, suggesting he is in the process of painting.",
+      "striking_details": "brush, palette, canvas, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_girl-back-to-the-piano-1932.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and inviting, with a sense of nostalgia and timelessness.",
+      "subject_description": "The main subjects of the picture are a woman and a piano. The most important interaction in the picture is the woman's hand resting on the piano, suggesting she is playing or about to play.",
+      "striking_details": "piano, woman, flowers, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_gladys-carter-woman-in-white-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is contemplative and introspective, with a sense of quiet introspection.",
+      "subject_description": "The main subject of the painting is a woman, depicted in a realistic style. The most important interaction in the picture is the woman's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "woman, shirt, hair, brushstroke",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_gloucester-harbor-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a town, a river, and a body of water. The most important interaction is the reflection of the town on the water, creating a harmonious blend of the built environment and the natural landscape.",
+      "striking_details": "boats, houses, water, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_gloucester-inlet-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural landscape.",
+      "subject_description": "The main subjects of the picture are a river, a grassy bank, and a house on a hill. The most important interaction in the picture is the reflection of the house on the water, creating a harmonious connection between the natural and built environments.",
+      "striking_details": "sky, water, boat, hill",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_grassy-dunes-gloucester-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are the grassy field, the ocean, and the lighthouse. The most important interaction is the lighthouse's presence, guiding ships in the ocean.",
+      "striking_details": "sky, grass, water, lighthouse",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_gray-and-brass-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and festive, with a group of people enjoying a ride in a vintage car.",
+      "subject_description": "The main subjects of the painting are a group of people riding in a car, with the car being the most prominent object. The most important interaction in the painting is the man in the back seat of the car, who is leaning out of the window and appears to be interacting with the people outside the car.",
+      "striking_details": "car, people, tree, hat",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_gray-day-jersey-coast-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the beach and ocean.",
+      "subject_description": "The main subjects in this picture are a man standing on a boat, a child sitting in the boat, and a suitcase on the sand. The most important interaction is the man standing on the boat, looking out at the ocean, while the child sits in the boat, observing the surroundings.",
+      "striking_details": "boat, beach, sky, ocean",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_green-and-red-1938.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and intimate, with a focus on the nude woman's body and the way she interacts with the other figure.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman's embrace of the man, which is depicted in a realistic style.",
+      "striking_details": "The image is a painting, featuring a nude woman, a couch, a vase, a bowl, and a cat.",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_green-s-cat.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the black cat and the contrasting colors of the checkered floor.",
+      "subject_description": "The main subjects in this picture are a black cat and a white dog. The most important interaction is the cat walking across the floor in front of the dog, which is lying down. The painting is done in an impressionist style, focusing on the interplay of light and shadow.",
+      "striking_details": "cat, tile, bowl, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_hairdresser-s-window-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, with a crowd of people gathered in a busy street scene.",
+      "subject_description": "The main subjects in this picture are a woman cutting hair and a group of people waiting outside a barber shop. The most important interaction is the woman cutting hair, as it is the central activity depicted in the painting.",
+      "striking_details": "hair salon, people, hats, signs, storefront",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_helen-in-green-suit-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of elegance and sophistication.",
+      "subject_description": "The main subject of the picture is a woman, who is depicted sitting in a chair. The most important interaction in the picture is the woman's hand resting on her lap.",
+      "striking_details": "woman, chair, window, painting, suit",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_helen-taylor-sketching-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman painting a landscape in a park.",
+      "subject_description": "The main subjects in this picture are a woman, an easel, and a painting. The most important interaction is the woman painting the landscape, as she is actively engaged in creating the artwork.",
+      "striking_details": "Hat, easel, paint, brush, water",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_humoresque-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape.",
+      "subject_description": "The main subjects in this picture are a person and a dog, both located in a field with hills and trees. The most important interaction in the picture is the person walking the dog, as they are the only two figures in the scene.",
+      "striking_details": "Rocks, people, trees, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_independence-square-philadelphia-1900.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively city scene, with people gathered in a courtyard, enjoying the outdoors.",
+      "subject_description": "The main subjects of the picture are a group of people gathered in front of a large building, possibly a church or a public building. The most important interaction in the picture is the man pushing a baby carriage, which seems to be the focal point of the scene.",
+      "striking_details": "building, people, tree, fence, street",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_jeanne-dubinsky-1942.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is one of elegance and sophistication, with the woman's poised posture and the rich, warm colors of the background.",
+      "subject_description": "The main subject of the picture is a woman, depicted in a realistic style. The most important interaction in the picture is her gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "woman, dress, portrait, brush strokes, red background",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_juanita-1930.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and inviting, with a focus on the woman's relaxed posture and the cozy setting.",
+      "subject_description": "The main subjects of the picture are a woman and a chair. The most important interaction in the picture is the woman sitting on the chair.",
+      "striking_details": "dress, chair, curtain, painting, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_mcsorley-s-bar-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the patrons and the bartender in a bar.",
+      "subject_description": "The main subjects of the painting are a group of men in a bar. The most important interaction is between two men, one of whom is holding a cup, suggesting a social gathering or conversation.",
+      "striking_details": "bar, men, hats, counter, clock",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_mcsorley-s-cats-1929.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, depicting a crowded bar scene with people and cats interacting.",
+      "subject_description": "The main subjects of the painting are a group of people in a bar, with a cat as an additional element. The most important interaction in the painting is between the man in the foreground and the cat, as they are both looking at each other.",
+      "striking_details": "bar, people, cats, hats, bottles",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_monument-in-the-plaza-new-york-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a large group of people gathered in a park, enjoying the sunny day.",
+      "subject_description": "The main subjects in this picture are a group of people gathered around a monument in a park. The most important interaction is a woman holding a child, who is looking at the monument.",
+      "striking_details": "Monument, people, trees, buildings, benches",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_movies-five-cents-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a crowded movie theater, with people engrossed in watching a film.",
+      "subject_description": "The main subjects in this painting are a group of people watching a performance on a stage. The most important interaction is the shared experience of the audience as they watch the performance.",
+      "striking_details": "theater, audience, screen, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_my-wife-in-blue-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with the woman sitting on a couch in a room with a window, surrounded by a green landscape.",
+      "subject_description": "The main subjects in this picture are a woman and a couch. The most important interaction is the woman sitting on the couch, which is the central focus of the artwork.",
+      "striking_details": "couch, window, curtain, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_not-identified.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and relaxed, with the woman sitting in a chair and reading a newspaper.",
+      "subject_description": "The main subjects of the picture are a woman sitting in a chair and reading a newspaper. The most important interaction in the picture is the woman's engagement with the newspaper, as she is holding it open and appears to be focused on the content.",
+      "striking_details": "dress, chair, newspaper, woman, shoes",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and introspective, with a sense of melancholy and solitude.",
+      "subject_description": "The main subjects of the picture are a woman, a cat, and a book. The most important interaction is the woman holding the cat while sitting on a chair.",
+      "striking_details": "book, cat, chair, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-at-piano-1928.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and impressionistic, with a focus on the interplay of light and shadow.",
+      "subject_description": "The main subjects in the picture are a woman and a piano. The most important interaction is the woman sitting on the piano bench, playing the piano.",
+      "striking_details": "piano, woman, book, lamp, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-four-senses-1929.jpg",
+      "visual_analysis": "The picture depicts a nude woman lying on a bed, with a fireplace in the background. The overall atmosphere is sensual and intimate.",
+      "subject_description": "The main subjects in this picture are a woman and a bed. The most important interaction is the woman lying on the bed, which is the central focus of the artwork.",
+      "striking_details": "fireplace, bed, woman, pillow, blanket",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-red-hair-standing-1928.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the nude woman and the surrounding environment.",
+      "subject_description": "The main subjects of the picture are a nude woman and a red horse. The most important interaction in the picture is the woman's gaze directed towards the horse.",
+      "striking_details": "red hair, nude, painting, woman, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-standing.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and impressionistic, with a focus on the human form and the use of line and shadow to create depth and texture.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "hair, back, shoulder, buttocks, line",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-terra-cotta-1933.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the nude woman's body and the red chair she is sitting on.",
+      "subject_description": "The main subjects in this picture are a nude woman and a red chair. The most important interaction is the woman's pose, which is relaxed and reclining on the chair.",
+      "striking_details": "red couch, woman, painting, overglaze, 24x20",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude-with-red-hand-mirror-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is intimate and artistic, with a focus on the woman's reflection in the mirror.",
+      "subject_description": "The main subjects in this picture are a woman and a mirror. The most important interaction in the picture is the woman looking at her reflection in the mirror.",
+      "striking_details": "woman, mirror, red, blue, overgaze",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_nude.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and artistic, featuring a nude woman sitting on a chair.",
+      "subject_description": "The main subjects of the picture are a woman and a chair. The most important interaction in the picture is the woman sitting on the chair.",
+      "striking_details": "chair, woman, arm, leg, foot",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_our-home-in-fort-washington-pennsylvania-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural landscape and the presence of a house in the background.",
+      "subject_description": "The main subjects in this picture are a large house, a group of people, and a dog. The most important interaction in the picture is the dog standing on top of the house, overlooking the people and the surrounding landscape.",
+      "striking_details": "house, sky, trees, people",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_our-red-cottage-gloucester-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the red house and its surrounding greenery.",
+      "subject_description": "The main subjects in this picture are a house and a tree. The most important interaction is the shadow of the tree on the house, which adds depth and dimension to the scene.",
+      "striking_details": "house, roof, windows, trees, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_passing-schooner-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a sailboat on the water and a bridge in the foreground.",
+      "subject_description": "The main subjects in this picture are a boat, a pier, and a body of water. The most important interaction in the picture is the boat sailing on the water, with people on the pier observing the boat.",
+      "striking_details": "sailboat, bridge, water, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_pigeons-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the silhouette of a man and birds against a city skyline.",
+      "subject_description": "The main subjects of the picture are a man and a bird. The most important interaction is the man holding a stick, attempting to hit the bird.",
+      "striking_details": "buildings, birds, chimney, sky, people",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_pink-and-blue-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with the woman sitting on a rock, surrounded by nature.",
+      "subject_description": "The main subjects of the picture are a woman and a rock. The most important interaction in the picture is the woman sitting on the rock.",
+      "striking_details": "dress, boots, grass, rock, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_professional-nurse.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a sense of tranquility and introspection.",
+      "subject_description": "The main subjects of the picture are a woman and a chair. The most important interaction in the picture is the woman sitting on the chair.",
+      "striking_details": "dress, chair, wall, hat",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_rainbow-new-york-city-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and dynamic, with a focus on the cityscape and the rainbow.",
+      "subject_description": "The main subjects in this picture are a cityscape and a rainbow. The most important interaction is the rainbow's reflection on the buildings, creating a vibrant and colorful scene.",
+      "striking_details": "rainbow, sky, buildings, train, bridge",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_remember-the-spanish-leather-miner-self-caricature.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is whimsical and surreal, with a sense of humor and absurdity.",
+      "subject_description": "The main subjects in this picture are a man and a dog. The most important interaction is the man smoking a pipe while the dog looks on.",
+      "striking_details": "hat, pipe, cane, shirt, tie",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_renganeschi-s-saturday-night-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and social, depicting a bustling restaurant scene with people enjoying their time.",
+      "subject_description": "The main subjects of the painting are a group of people sitting at tables in a restaurant. The most important interaction is a man and a woman sitting at a table, engaged in conversation.",
+      "striking_details": "chairs, tables, people, wine glasses",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_rocks-weeds-and-sea-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and tranquil, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are rocks, the ocean, and a small island. The most important interaction is the interplay between the colors and textures of the rocks and the ocean, creating a sense of depth and perspective.",
+      "striking_details": "rock, water, sky, island",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_rosette-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and artistic, with a woman in a flowing dress posing in a natural setting.",
+      "subject_description": "The main subjects in this picture are a woman and a bird. The most important interaction is the woman's gaze directed towards the bird.",
+      "striking_details": "dress, hat, brush, canvas, oil",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_sally-and-paul-reds-and-greens.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman lounging on a porch swing, surrounded by a lush garden and a cat.",
+      "subject_description": "The main subjects in this picture are a woman, a cat, and a house. The most important interaction is the woman lying on a bed, looking out at the cat walking in the yard.",
+      "striking_details": "house, cat, woman, flowers, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_santa-fe-siesta-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and intimate, with a focus on the nude woman and her surroundings.",
+      "subject_description": "The main subjects in this picture are a nude woman lying on a bed and a dog sitting on the floor. The most important interaction in the picture is the woman's hand resting on her head, suggesting a moment of relaxation or contemplation.",
+      "striking_details": "bed, window, mountains, dog, nude",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_scrubwoman-astor-library-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and inviting, with a sense of domesticity and daily life.",
+      "subject_description": "The main subjects in this picture are three women in a room filled with books. The most important interaction is the woman on the floor, who is cleaning, while the other two women are standing and observing her work.",
+      "striking_details": "bookshelf, woman, broom, bucket, stairs",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_self-portrait-1890.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the man's serious expression and the dark background.",
+      "subject_description": "The main subject of the picture is a man, and the most important interaction is his gaze, which is directed towards the viewer.",
+      "striking_details": "The image is a portrait, featuring a man with glasses, a suit, and a tie. The background is dark.",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_self-portrait-pipe-and-brown-jacket-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the man's serious expression and the dark background.",
+      "subject_description": "The main subject of the picture is a man with a pipe in his mouth. The most important interaction in the painting is the man's gaze, which is directed towards the viewer.",
+      "striking_details": "The image is a portrait of a man, featuring a pipe, a jacket, a tie, and a background.",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_six-o-clock-winter-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, capturing a busy train station at night.",
+      "subject_description": "The main subjects of the painting are a train and a crowd of people. The most important interaction in the painting is the train passing over the crowd of people, capturing a moment of urban life.",
+      "striking_details": "train, people, lights, buildings, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_south-beach-bathers-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and social, depicting a group of people enjoying a day at the beach.",
+      "subject_description": "The main subjects in this picture are a group of people on a beach. The most important interaction is a woman standing and talking to a man who is sitting on the sand.",
+      "striking_details": "dress, beach, people, boat",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_spanish-girl-fur-hat-red-coat-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and intense, with a focus on the woman's serious expression.",
+      "subject_description": "The main subject of the painting is a woman wearing a hat. The most important interaction in the picture is the woman's gaze, which is directed towards the viewer.",
+      "striking_details": "hat, coat, brush, canvas, oil",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_spring-grammercy-park-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a family enjoying a leisurely day in a park.",
+      "subject_description": "The main subjects in this picture are a family sitting in a park. The most important interaction is the father pushing the baby carriage while the mother sits on a bench, engaging in conversation with the father.",
+      "striking_details": "tree, building, stroller, chair, people",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_spring-planting-greenwich-village-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a sense of community and shared work.",
+      "subject_description": "The main subjects of the painting are three women engaged in gardening activities. The most important interaction is the woman in the center, who is handing a tool to another woman, indicating a collaborative effort in their gardening tasks.",
+      "striking_details": "woman, man, shovel, fence, tree",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_spring-rain-new-york-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman walking under a tree with an umbrella.",
+      "subject_description": "The main subjects of the painting are a woman holding an umbrella and a man in a yellow coat. The most important interaction in the picture is the woman walking past the man, with the umbrella providing shelter from the rain.",
+      "striking_details": "tree, umbrella, bench, park, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_spring-washington-square-1928.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and lively, with a focus on the park and its surroundings.",
+      "subject_description": "The main subjects of the picture are a large tree, a park, and a cityscape. The most important interaction in the picture is the presence of people walking around the park and the city, indicating a lively urban environment.",
+      "striking_details": "tree, people, umbrella, fence, building",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_stein-profile-foreign-girl-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with the woman's face and upper body illuminated against a dark background.",
+      "subject_description": "The main subject of this painting is a woman, depicted in a three-quarter view. The most important interaction in the picture is the woman's gaze, which is directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "nose, hair, dress, background",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_street-lilacs-noon-sun-1918.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, depicting a quiet street scene with a house, people, and trees.",
+      "subject_description": "The main subjects in this picture are a house, a tree, and three people. The most important interaction is between the people and the tree, as they are standing under it.",
+      "striking_details": "house, people, tree, street, building",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_sun-and-wind-on-the-roof-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and nostalgic, capturing a moment of domesticity and simplicity.",
+      "subject_description": "The main subjects in this picture are a woman and a horse. The most important interaction is the woman hanging clothes on a line, with the horse walking by in the background.",
+      "striking_details": "dress, railing, laundry, buildings, shoes",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_sunday-women-drying-their-hair-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and relaxed, with three women enjoying a sunny day on a rooftop.",
+      "subject_description": "The main subjects of the painting are three women sitting on a ledge. The most important interaction is the woman on the right leaning over to the woman in the middle, who is leaning over to the woman on the left.",
+      "striking_details": "brick wall, dress, hair, cityscape",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_sunlit-peak-santa-fe-canyon-1920.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural landscape.",
+      "subject_description": "The main subjects of the picture are a mountainous landscape and a body of water. The most important interaction in the picture is the reflection of the mountains on the water's surface.",
+      "striking_details": "sky, mountains, trees, brush, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_sunset-west-twenty-third-street-1906.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the silhouette of a woman standing in front of a cityscape.",
+      "subject_description": "The main subjects in this picture are a woman standing on a balcony and a cityscape in the background. The most important interaction is the woman holding a basket, possibly preparing to go out or return from shopping. The painting captures a moment of everyday life in an urban setting.",
+      "striking_details": "buildings, sky, clouds, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-city-from-greenwich-village-1922.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a bustling cityscape at night, with a train traveling through the city. The scene is filled with tall buildings, illuminated by streetlights and the glow of the train's headlights. The artist has used a loose, sketchy style to capture the energy and movement of the city.",
+      "subject_description": "The main subjects of the picture are a train, a cityscape, and a bridge. The most important interaction is the train crossing the bridge over the city.",
+      "striking_details": "buildings, train, lights, bridge, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-cot-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with a focus on the woman's contemplative and introspective state.",
+      "subject_description": "The main subjects in this picture are a woman and a bed. The most important interaction is the woman bending over the bed, possibly to pick something up or to adjust the bedding.",
+      "striking_details": "dress, bed, woman, room",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-effect-is-spoiled-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and intimate, depicting a woman reading a book in a cozy setting.",
+      "subject_description": "The main subjects in this picture are a woman, a cat, and a book. The most important interaction is the woman reading the book while the cat sits nearby.",
+      "striking_details": "woman, book, cat, potted plant, window",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-haymarket-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, capturing a busy street scene with people walking around and interacting with each other.",
+      "subject_description": "The main subjects in this picture are a group of people, including a woman in a white dress, standing outside a building. The most important interaction is the woman in the white dress talking to a man in a black suit.",
+      "striking_details": "building, people, dress, hat, street",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-lookout-green-and-orange-cliffs-gloucester-1917.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are the ocean, the shore, and the sky. The most important interaction is the interplay of light and shadow, creating a sense of depth and perspective.",
+      "striking_details": "sky, water, cliff, grass, sunset",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-new-blue-dress-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with the woman's gaze directed off to the side, suggesting a sense of introspection or detachment.",
+      "subject_description": "The main subjects of the picture are a woman and a wall. The most important interaction in the picture is the woman's gaze directed towards the viewer.",
+      "striking_details": "red hair, blue dress, white collar, brown wall, black hat",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_the-picnic-grounds-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively outdoor gathering, with people enjoying themselves in a park-like setting.",
+      "subject_description": "The main subjects of the painting are a group of people, likely women, gathered around a tree. The most important interaction depicted is a woman holding a parasol, possibly to shield herself or others from the sun. The scene appears to be set in a park or a similar outdoor setting.",
+      "striking_details": "tree, table, hat, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_three-a-m-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is domestic and intimate, depicting a woman in a kitchen preparing food.",
+      "subject_description": "The main subjects in this picture are a woman and a girl, both dressed in white. The most important interaction in the picture is the woman cutting food at the table while the girl sits and watches.",
+      "striking_details": "door, table, cup, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_threshing-floor-santa-fe-1924.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a sense of community and activity.",
+      "subject_description": "The main subjects of the picture are a group of people and a herd of goats. The most important interaction in the picture is the herding of the goats by the people, with the people using a fence to guide the goats.",
+      "striking_details": "goats, people, umbrella, fence, mountains",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_wake-of-the-ferry-1907-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of isolation and introspection.",
+      "subject_description": "The main subjects in this picture are a woman and a man. The most important interaction is the woman leaning on a railing, looking out at the sea, while the man stands nearby.",
+      "striking_details": "ship, ocean, fence, boat, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_wake-of-the-ferry-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and somber, with a sense of solitude and contemplation.",
+      "subject_description": "The main subjects in this picture are a person, a boat, and a fence. The most important interaction is the person standing on the deck of the boat, looking out at the ocean.",
+      "striking_details": "ship, fence, person, boats, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_wet-night-washington-square-1928.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the city's architectural beauty and the tranquility of the fountain at night.",
+      "subject_description": "The main subjects in this picture are a large building, a fountain, and a cityscape at night. The most important interaction in the picture is the illumination of the fountain, which stands out against the dark sky and the city lights.",
+      "striking_details": "sky, building, fountain, street, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_wonson-s-rocks-and-ten-pound-island-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a boat, a house, and a rocky shore. The most important interaction is the boat's proximity to the shore, suggesting it might be approaching or leaving the shore.",
+      "striking_details": "house, boat, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_yeats-at-petitpas-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a lively social gathering, with people enjoying each other's company and indulging in food and drinks.",
+      "subject_description": "The main subjects in the picture are a group of people gathered around a dining table. The most important interaction is a woman serving food to the guests.",
+      "striking_details": "table, people, bottles, hat, fruit",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_yellow-rock-gloucester-1915.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and tranquil, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in this picture are a large rock formation and the ocean. The most important interaction is the rock formation's position in the foreground, partially obscuring the view of the ocean, creating a sense of depth and perspective.",
+      "striking_details": "rock, water, sky, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "john-french-sloan_young-woman-in-black-and-white-mary-kerr-1902.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the subject's expression and the dark background.",
+      "subject_description": "The main subjects in the picture are a person and a white shirt. The most important interaction is the person wearing the white shirt, looking directly at the viewer.",
+      "striking_details": "The image depicts a young boy, a white shirt, a dark background, a collar, and a pocket.",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_check-in-check-out-2010.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and somewhat melancholic, with a focus on the interplay of light and shadow.",
+      "subject_description": "The main subjects in this picture are a table, a chair, and a window. The most important interaction in the picture is the light coming through the window, illuminating the room and creating a sense of warmth and comfort.",
+      "striking_details": "table, curtain, window, chair, book",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_getaway-car-2009.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and dynamic, with a mix of bright colors and abstract elements.",
+      "subject_description": "The main subjects in the picture are a person and a car. The most important interaction is the person driving the car, looking out at the city street.",
+      "striking_details": "street sign, rain, man, cars, buildings",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_never-look-back-2009.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and somewhat mysterious, with a focus on the woman's face and the urban setting.",
+      "subject_description": "The main subjects in this picture are a woman and a cell phone. The most important interaction depicted is the woman holding the cell phone.",
+      "striking_details": "Woman, necklace, earrings, handbag, street",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_room-service-2008.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the contrast between the light and dark elements.",
+      "subject_description": "The main subjects in this picture are a table with various items on it, including a plate with a piece of food, a cup, a fork, a knife, and a bowl. The most important interaction in the picture is the placement of the food on the plate, which is the central focus of the image.",
+      "striking_details": "plate, fork, spoon, cup, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_the-meadows-2010.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a focus on the natural elements and the cityscape.",
+      "subject_description": "The main subjects in the picture are a car and a field of tall grass. The most important interaction is the car driving through the tall grass.",
+      "striking_details": "buildings, car, grass, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_the-n-and-the-r-2010.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and contemplative, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in the picture are a person and a train. The most important interaction is the person standing on the platform, looking out at the train as it approaches the station.",
+      "striking_details": "woman, water, window, bench, train",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_the-ring-2008.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and dynamic, with a splash of color and a sense of movement.",
+      "subject_description": "The main subjects in the picture are a staircase and a subway entrance. The most important interaction is the staircase leading down to the subway entrance, indicating the transition between the street and the underground transportation system.",
+      "striking_details": "stairs, escalator, water, sign, building",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_the-transfer-2009.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and somewhat mysterious, with a focus on the woman's contemplative expression and the blurred background.",
+      "subject_description": "The main subjects in this picture are a woman and a train. The most important interaction is the woman looking out of the train window, which suggests a sense of travel or journey.",
+      "striking_details": "train, window, woman, reflection",
+      "status": "success"
+    },
+    {
+      "image_name": "michael-bell_unfinished-business-2010.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of movement and energy. The use of bright colors and abstract shapes creates a dynamic and lively visual experience.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction between them is their close proximity, suggesting a close relationship or intimacy.",
+      "striking_details": "brush, paint, canvas, art",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_1911-for-the-championship-of-the-backlot-league.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and lively, with a large group of people engaged in various activities in a crowded urban setting.",
+      "subject_description": "The main subjects of the picture are a large crowd of people, a building, and a crane. The most important interaction in the picture is the crane lifting a man off the ground.",
+      "striking_details": "building, people, street, hat",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_at-the-beach-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a woman walking along a pathway near a house and a bridge.",
+      "subject_description": "The main subjects in this picture are a woman standing in a doorway and a woman walking on a bridge. The most important interaction in the picture is the woman walking on the bridge looking back at the woman standing in the doorway.",
+      "striking_details": "house, woman, stairs, bridge",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_bal-bullier-1895.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a crowd of people in hats and coats, possibly at a social event or gathering.",
+      "subject_description": "The main subjects of the painting are a man and a woman, both dressed in formal attire. The most important interaction in the picture is the man and the woman dancing together.",
+      "striking_details": "hats, people, dress, crowd, floor",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_caf-de-la-paix-1906.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is social and relaxed, with a group of people gathered around a table, enjoying each other's company.",
+      "subject_description": "The main subjects of the painting are a group of people, likely in a social setting, with a man and a woman being the most prominent figures. The most important interaction appears to be a conversation between the man and the woman, as they are the central focus of the painting.",
+      "striking_details": "umbrella, chair, table, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_central-park-in-winter.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with people enjoying a snowy day in a park.",
+      "subject_description": "The main subjects of the painting are a group of people enjoying a snowy day in a park. The most important interaction is a woman leaning against a tree, while a child plays nearby.",
+      "striking_details": "tree, people, snow, park",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_chez-mouquin-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is elegant and sophisticated, with a focus on the woman's attire and the man's formal attire.",
+      "subject_description": "The main subjects in the picture are a man and a woman. The most important interaction is the man holding a glass of wine and the woman holding a glass of water.",
+      "striking_details": "dress, hat, wine glass, table, man",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_christmas-shoppers-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, depicting a busy city street filled with people and vehicles.",
+      "subject_description": "The main subjects of the picture are a crowded city street with a double-decker bus and numerous pedestrians. The most important interaction is the bus driver driving the bus through the busy street.",
+      "striking_details": "buildings, people, bus, cars, trees",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_city-scene-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a crowd of people gathered in a park.",
+      "subject_description": "The main subjects of the painting are a man and a woman, who are embracing each other. The most important interaction depicted in the painting is the emotional connection between the two individuals.",
+      "striking_details": "tree, people, hats, coats, sidewalk",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_dancer-in-a-pink-dress-1902.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is elegant and poised, with a sense of movement and grace.",
+      "subject_description": "The main subjects of the picture are a young girl and a bird. The most important interaction in the picture is the girl's dance with the bird.",
+      "striking_details": "dress, girl, shoes, skirt",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_far-from-the-fresh-farm-air-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, depicting a busy city street filled with people and activity.",
+      "subject_description": "The main subjects of this picture are a bustling city street filled with people, vendors, and various activities. The most important interaction is the exchange of goods and services between the vendors and the customers, which is a common sight in such a busy urban environment.",
+      "striking_details": "market, people, umbrella, buildings, street",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_figures-in-a-park-paris-1895.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a large crowd of people gathered together in a public space.",
+      "subject_description": "The main subjects in the picture are a group of people. The most important interaction is a man holding a child in his arms.",
+      "striking_details": "dress, hat, umbrella, coat, chair",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_fruit-stand-coney-island.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, depicting a busy market scene with people and a fruit stand.",
+      "subject_description": "The main subjects of the painting are a group of people gathered around a food stand on a beach. The most important interaction is a woman in a white dress holding a baby, possibly engaging in a conversation with another woman.",
+      "striking_details": "market, people, umbrella, fruit stand, beach",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_girl-in-a-black-cape-1897.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and moody, with the subject dressed in dark clothing and holding a guitar.",
+      "subject_description": "The main subjects in this picture are a young boy and a guitar. The most important interaction is the boy holding the guitar, which suggests a musical theme.",
+      "striking_details": "hat, jacket, guitar, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_hammerstein-s-roof-garden.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and social, with a group of people gathered in a theater, enjoying a performance.",
+      "subject_description": "The main subjects of the painting are a group of people, including a man and a woman, who are engaged in a performance. The most important interaction in the picture is the man holding an umbrella, which is a significant element in the scene.",
+      "striking_details": "umbrella, balcony, audience, dancer, flowers",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_la-villette-1895.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a bridge and a river in the foreground, and a cityscape in the background.",
+      "subject_description": "The main subjects of the painting are a bridge, a river, and a cityscape. The most important interaction depicted is a group of people crossing the bridge, with one person looking down at the river below.",
+      "striking_details": "bridge, people, buildings, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_may-day-in-central-park-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and joyful, depicting a large gathering of people in a park.",
+      "subject_description": "The main subjects of the painting are a large group of people gathered in a park. The most important interaction depicted is a man throwing an apple to a child.",
+      "striking_details": "trees, people, ball, dress",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_merry-christmas-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and festive, with a large group of people gathered around a Christmas tree, dancing and enjoying themselves.",
+      "subject_description": "The main subjects of the picture are a group of people gathered around a Christmas tree. The most important interaction in the picture is the act of exchanging gifts, as indicated by the presence of wrapped presents and the festive atmosphere.",
+      "striking_details": "staircase, people, tree, bicycle",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_nude-with-hat-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the woman's body and the use of bold colors.",
+      "subject_description": "The main subjects of the picture are a woman and a couch. The most important interaction is the woman's gaze directed towards the viewer, creating a sense of connection and engagement.",
+      "striking_details": "hat, dress, couch, flowers",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_on-the-quai.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a crowd of people gathered in a town square.",
+      "subject_description": "The main subjects in this picture are a group of people, including a couple of children, gathered in a courtyard. The most important interaction is a man holding a child, with the child seemingly asleep or resting in his arms.",
+      "striking_details": "boat, people, dress, hat, building",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_portrait-of-charles-fitzgerald-1903.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a sense of melancholy.",
+      "subject_description": "The main subjects in the picture are a man and a bird. The most important interaction is the man holding the bird.",
+      "striking_details": "The image depicts a man, a coat, a bow tie, a hat, and a bird.",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_scene-on-the-lower-east-side.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is bustling and lively, with a crowd of people gathered in a marketplace.",
+      "subject_description": "The main subjects in this picture are a group of people, a woman holding an umbrella, and a child. The most important interaction appears to be the woman holding the umbrella, possibly protecting the child from the rain.",
+      "striking_details": "umbrella, hat, dress, basket, building",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_seated-actress-with-mirror-1903.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is intimate and moody, with a focus on the interaction between the characters.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction is the man looking at the woman, who is sitting on a chair.",
+      "striking_details": "woman, man, chair, table",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_skating-in-central-park-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and bustling, with a crowd of people enjoying a snowy day in a park.",
+      "subject_description": "The main subjects of the painting are a group of people enjoying a snowy day in a park. The most important interaction is a couple dancing in the snow, surrounded by other people who are either walking or standing around, creating a lively and joyful atmosphere.",
+      "striking_details": "hill, trees, people, snow",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_summer-hotel-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the tranquil water and the calmness of the town.",
+      "subject_description": "The main subjects in this picture are a river, a town, and a road. The most important interaction is the road leading towards the town, which is situated by the river. The painting captures the tranquility of the scene, with the town and river providing a serene backdrop.",
+      "striking_details": "house, water, boat, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_the-drive-central-park-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and social, depicting a bustling park scene with people enjoying themselves.",
+      "subject_description": "The main subjects of the painting are a group of people gathered in a park. The most important interaction is a man and a woman engaged in conversation.",
+      "striking_details": "park, people, benches, trees, carriages",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_the-shoppers-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is busy and crowded, with a sense of movement and activity.",
+      "subject_description": "The main subjects in the picture are a group of people. The most important interaction is the woman in a brown dress holding a purse, looking at the man in a blue hat.",
+      "striking_details": "dress, hat, coat, purse, umbrella",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_tugboat-and-lighter-1905.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on the boats and the calm water.",
+      "subject_description": "The main subjects in this picture are a boat with smoke coming from its chimney and several other boats in the background. The most important interaction in the picture is the smoke from the boat, which stands out against the other boats and the water.",
+      "striking_details": "boat, smoke, water, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_under-the-trees-luxembourg-gardens-1906.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the people gathered in the forest.",
+      "subject_description": "The main subjects of the painting are a group of people, likely a family, gathered in a forest. The most important interaction is a woman in a red dress, who is holding a child and appears to be the focal point of the scene.",
+      "striking_details": "trees, people, chairs, hats",
+      "status": "success"
+    },
+    {
+      "image_name": "william-james-glackens_under-the-trees.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is lively and social, with a group of people gathered in a park, enjoying each other's company.",
+      "subject_description": "The main subjects in the picture are a group of people. The most important interaction is a person holding a parasol, standing next to a tree, while others are sitting on chairs and benches.",
+      "striking_details": "dress, hat, tree, fence, people",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_alain-as-summer-1976.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative.",
+      "subject_description": "The main subjects in this picture are a shirtless man and a knife. The most important interaction is the man holding the knife, which is positioned to the left of the man.",
+      "striking_details": "The image depicts a man, a wall, a shadow, a hand, and a knife.",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_alain-as-winter-1975.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is moody and introspective, with a focus on the male figure.",
+      "subject_description": "The main subjects in the picture are a man and a bowl. The most important interaction is the man holding the bowl.",
+      "striking_details": "The image depicts a man, a mirror, a table, a bowl, and a vase.",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_alexandras-square-in-piraeus-1962.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a calm river flowing through a picturesque town.",
+      "subject_description": "The main subjects in this picture are a cityscape and a body of water. The most important interaction is the reflection of the cityscape on the water's surface.",
+      "striking_details": "buildings, water, boat, houses, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_autumn-1979.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative.",
+      "subject_description": "The main subjects in the picture are a person wearing a red jacket and a yellow scarf. The most important interaction in the picture is the person holding a basket.",
+      "striking_details": "red jacket, yellow scarf, basket, wall, shadow",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_cafe-neon-at-day-1965.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with a focus on the quiet street corner and the storefront.",
+      "subject_description": "The main subjects in this picture are a building with a sign that reads \"NEON\" and a street lamp. The most important interaction in the picture is the reflection of the street lamp on the building's facade.",
+      "striking_details": "building, awning, chair, light, street",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_cafe-neon-at-night-1965.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is quiet and serene, with a hint of nostalgia.",
+      "subject_description": "The main subjects in this picture are a building with a neon sign and a person standing outside. The most important interaction in the picture is the person standing outside the building, possibly interacting with the neon sign or the building itself.",
+      "striking_details": "building, neon sign, people, chairs, lights",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_copying-titian-1971.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and introspective, with a sense of solitude and contemplation.",
+      "subject_description": "The main subjects in this picture are a man painting a picture, a woman sitting on the floor, and a man sitting on a chair. The most important interaction is the man painting the picture, as he is the central figure and the focus of the scene.",
+      "striking_details": "painting, easel, chair, window",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_dominic-as-summer-1975.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and intense, with a focus on the male figure.",
+      "subject_description": "The main subject of the painting is a shirtless man holding an apple in one hand and a knife in the other. The most important interaction in the picture is the man holding the knife, which suggests a potential threat or danger.",
+      "striking_details": "apple, man, curtain, shirtless, curtain rod",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_mariner-reading-with-pink-background(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is contemplative and introspective, with the man sitting alone at a table, engrossed in reading a book.",
+      "subject_description": "The main subjects in this picture are a man, a table, and a book. The most important interaction is the man reading the book.",
+      "striking_details": "sailor, table, book, cup, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_nude-youth-with-oleanders-and-a-bandage-on-his-hand-1940.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is sensual and artistic, with a focus on the nude male figure.",
+      "subject_description": "The main subjects in this picture are a shirtless man and a vase of flowers. The most important interaction in the picture is the man holding the vase of flowers.",
+      "striking_details": "flowers, vase, table, man",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_p308(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is solemn and somber, with a sense of respect and reverence.",
+      "subject_description": "The main subject of the picture is a man dressed in a sailor's uniform, complete with a hat. The most important interaction in the picture is the man's pose, which suggests a sense of pride and confidence in his profession.",
+      "striking_details": "sailor, uniform, hat, boots, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_reclining-nude.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and melancholic, with a sense of vulnerability and introspection.",
+      "subject_description": "The main subjects of the painting are a woman and a man. The most important interaction depicted is the woman holding the man's head.",
+      "striking_details": "woman, bed, blanket, pillow, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_sailor-on-pink-background.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is calm and serene, with the sailor sitting at a table, reading a book, and enjoying a cup of coffee.",
+      "subject_description": "The main subjects in this picture are a man wearing a sailor's uniform and a book. The most important interaction in the picture is the man holding the book, which suggests he is reading or about to read.",
+      "striking_details": "sailor, hat, table, cup, book",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_schizophrenic-1968.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative.",
+      "subject_description": "The main subject of the picture is a man, and the most important interaction is his gaze directed towards the viewer.",
+      "striking_details": "The image depicts a man, a portrait, a white shirt, a collar, and a background.",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_the-areopagos-1964.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and natural, depicting a rocky landscape with a hint of greenery.",
+      "subject_description": "The main subjects in this picture are a rocky outcrop and a grassy area. The most important interaction is the contrast between the ruggedness of the rocks and the softness of the grass.",
+      "striking_details": "rock, mountain, grass, sky, dirt",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_the-forgoten-guards.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is intimate and artistic, with a focus on the human form and the interplay of light and shadow.",
+      "subject_description": "The main subjects in this picture are three men in a room. The most important interaction is between the two men sitting at a table, as they are engaged in a conversation.",
+      "striking_details": "chair, table, vase, laptop",
+      "status": "success"
+    },
+    {
+      "image_name": "yiannis-tsaroychis_winter-1979.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and contemplative, with a focus on the man's introspective expression.",
+      "subject_description": "The main subject of the painting is a man standing in front of a cake. The most important interaction in the picture is the man holding a knife, preparing to cut the cake.",
+      "striking_details": "Man, cake, table, wall, floor",
+      "status": "success"
+    }
+  ]
+}
