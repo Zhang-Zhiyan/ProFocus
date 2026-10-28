@@ -1,0 +1,702 @@
+{
+  "folder_name": "Action_painting",
+  "processed_date": "2025-12-29 15:24:35",
+  "model": "llava-v1.6-mistral-7b-hf",
+  "processing_mode": "batch_8",
+  "total_images": 98,
+  "successful": 98,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "processing_time_seconds": 188.03,
+  "processing_time_formatted": "0:03:08",
+  "avg_time_per_image": 1.92,
+  "images_per_second": 0.521,
+  "analyses": [
+    {
+      "image_name": "antonio-palolo_untitled-1992.jpg",
+      "visual_analysis": "The picture has a vibrant and dynamic atmosphere, with a mix of bold colors and abstract patterns. The use of white and black lines adds a sense of depth and complexity to the image.",
+      "subject_description": "The main subjects of the image are the vertical lines and the horizontal lines. The most important interaction is the overlapping of the lines, creating a sense of depth and texture.",
+      "striking_details": "pink, white, black, splatter, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_accent-grave-1955.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and minimalistic, with a limited color palette and a focus on geometric shapes.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay between the black and white elements, creating a sense of contrast and balance.",
+      "striking_details": "black, brushstroke, white, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_black-and-white-png.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of black and white elements creating a sense of disorder and complexity.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with the most important interaction being the overlapping and intersecting of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_blueberry-eyes-1960.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay of colors and forms, creating a dynamic and visually engaging composition.",
+      "striking_details": "blue, red, green, white, brushstrokes",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_buttress-1956.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a cross and a tree. The most important interaction is the cross's shadow on the tree, creating a silhouette effect.",
+      "striking_details": "Cross, brushstroke, monochrome, abstract, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_c-and-o-1958.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and abstractness.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with the most important interaction being the interplay of colors and forms.",
+      "striking_details": "black, red, yellow, white",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_cardinal-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and minimalistic, with a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay between the black and white elements, creating a sense of depth and dimension.",
+      "striking_details": "bridge, sky, clouds, water",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_chief-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with bold black lines and shapes creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, brushstrokes, abstract, form",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_delaware-gap.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and disorder.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay of dark and light colors, creating a sense of depth and movement.",
+      "striking_details": "black, white, brushstrokes, abstract, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_figure-eight-1952.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay between the black and white colors, creating a sense of contrast and depth.",
+      "striking_details": "black, brushstroke, abstract, monochromatic, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_four-square-1956.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and a focus on geometric shapes.",
+      "subject_description": "The main subjects in this picture are a black cat and a white bird. The most important interaction is the cat's paw reaching out to the bird.",
+      "striking_details": "black, paint, canvas, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_herald-1954.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is minimalistic and abstract, with a focus on the black rectangle.",
+      "subject_description": "The main subjects in this picture are a black rectangle and a white background. The most important interaction is the contrast between the black rectangle and the white background, creating a visually striking image.",
+      "striking_details": "black, rectangle, paint, canvas, white",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_horizontal-rust-1960.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and dark, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay of black and white colors, creating a sense of depth and dimension.",
+      "striking_details": "black, white, brushstrokes, abstract, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_le-gros.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and mysterious, with a sense of intrigue and suspense.",
+      "subject_description": "The main subjects in this picture are a table and a shadow. The most important interaction is the shadow of the table on the wall.",
+      "striking_details": "black and white, lines, shadow, contrast, pattern",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_mahoning-1956.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and abstraction.",
+      "subject_description": "The main subjects of the picture are the black lines and shapes that create an abstract composition. The most important interaction in the picture is the interplay of these lines and shapes, which form a complex and intriguing visual pattern.",
+      "striking_details": "black, lines, structure, contrast, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_meryon-1961.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay of black and white, creating a sense of depth and dimension.",
+      "striking_details": "black, brushstrokes, abstract, monochromatic, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_mycenae-1958.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with bold strokes and a mix of red, yellow, and white.",
+      "subject_description": "The main subjects in the picture are abstract shapes and lines, primarily in red, yellow, and white. The most important interaction in the artwork is the interplay of these shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "red, yellow, brushstroke, abstract, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_new-york-1953.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and dark, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, brushstrokes, abstract, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_number-2-1954.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and minimalistic, with a limited color palette and a focus on geometric shapes.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay of black and white colors, creating a sense of depth and contrast.",
+      "striking_details": "black, brushstrokes, abstract, canvas, art",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_number-2.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and mysterious, with a sense of foreboding.",
+      "subject_description": "The main subjects in this picture are a cross and a shadow. The most important interaction is the shadow of the cross on the ground.",
+      "striking_details": "The image is a black and white photograph. It features a cross, a shadow, a pole, and a building.",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_opustena.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of solitude and introspection.",
+      "subject_description": "The main subjects in this picture are a nude woman and a tree. The most important interaction is the woman's pose, which suggests she is either resting or sleeping. The tree is in the background, providing a natural setting.",
+      "striking_details": "tree, sky, sand, woman",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_orange-outline-1955.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with bold black and white strokes creating a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay between the black and white elements, creating a sense of depth and contrast.",
+      "striking_details": "black, white, brushstrokes, abstract, color",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_painting-no-7.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are black rectangles and white rectangles. The most important interaction is the contrast between the black and white rectangles, creating a visually striking image.",
+      "striking_details": "black, frame, canvas, art, monochrome",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_palladio-1961.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a limited color palette and bold brushstrokes.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, lines, shapes, door",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_picture-046.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and abstraction.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the contrast between the black and white areas, creating a sense of depth and dimension.",
+      "striking_details": "black, white, brushstrokes, abstract, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_scudera-1961.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in the picture are a gun and a person. The most important interaction is the person holding the gun, pointing it at the other person.",
+      "striking_details": "The image is predominantly blue, with a darker blue background and a lighter blue foreground. There is a red object in the top left corner. The overall style of the image is abstract and expressionist. The brushstrokes are visible, adding texture to the artwork. The image has a dark, moody atmosphere.",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_suspended-1953.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and minimalistic, with a limited color palette and a focus on geometric shapes.",
+      "subject_description": "The main subjects in this picture are a black square and a white rectangle. The most important interaction in the picture is the contrast between the black and white elements, creating a visually striking composition.",
+      "striking_details": "black, square, frame, canvas, white",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_torches-mauve-1960.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in the picture are a chair and a table. The most important interaction is the shadow cast by the chair on the table.",
+      "striking_details": "black, purple, brushstrokes, dark, light",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in this picture are a person and a chair. The most important interaction is the person sitting on the chair.",
+      "striking_details": "black, paint, canvas, brushstroke, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-1955.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and minimalistic, with a limited color palette and a focus on geometric shapes.",
+      "subject_description": "The main subjects in this picture are a black triangle and a black rectangle. The most important interaction is the overlapping of the triangle and rectangle, creating a sense of depth and perspective.",
+      "striking_details": "bridge, sky, clouds, water",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-1956.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat mysterious, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are two figures, one of which is holding a large object. The most important interaction appears to be the transfer of weight or balance from the figure holding the object to the other figure.",
+      "striking_details": "The image is a black and white abstract painting. It features a figure, a hat, and a stick. The figure is holding the stick. The painting has a splattered effect.",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-1957-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and dark, with a sense of movement and chaos.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, brushstrokes, abstract, art, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-1957.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and chaotic, with a mix of bright colors and abstract shapes.",
+      "subject_description": "The main subjects in this picture are abstract shapes and colors. The most important interaction is the juxtaposition of different colors and shapes, creating a visually striking composition.",
+      "striking_details": "orange, green, blue, purple, yellow",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled-ii.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and disorder.",
+      "subject_description": "The main subjects in this picture are a newspaper and a pair of scissors. The most important interaction is the cutting of the newspaper with the scissors.",
+      "striking_details": "Newspaper, ink, black, white, text",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_untitled.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bright and dark colors creating a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and colors. The most important interaction is the contrast between the blue and green areas, which creates a visually striking effect.",
+      "striking_details": "blue, green, brown, black, white",
+      "status": "success"
+    },
+    {
+      "image_name": "franz-kline_zinc-yellow-1959.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a bold use of color and form.",
+      "subject_description": "The main subjects in this picture are a yellow rectangle and a black line. The most important interaction is the contrast between the two, creating a visually striking composition.",
+      "striking_details": "yellow, black, brushstroke, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_astral-nebula-1961.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are splatters of blue and yellow paint. The most important interaction is the collision of the blue and yellow paint, creating a dynamic and vibrant visual effect.",
+      "striking_details": "blue, splatter, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_don-quixote-1963.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a black figure and a white background. The most important interaction in the picture is the splashing of black paint, creating a dynamic and abstract composition.",
+      "striking_details": "black, splatter, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_in-the-vastness-of-sorrowful-thoughts-1963.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and expressive, with bold splashes of red and blue paint creating a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and splatters of paint. The most important interaction is the interplay of colors and textures, creating a sense of movement and energy.",
+      "striking_details": "red, blue, black, splatter, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_rope-swinger-1962.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with splashes of color and a sense of movement.",
+      "subject_description": "The main subjects in this picture are abstract shapes and splatters of paint. The most important interaction is the interplay of colors and forms, creating a dynamic and expressive composition.",
+      "striking_details": "black, splatter, red, yellow, blue",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_the-prey-1956.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with splashes of color and a sense of movement.",
+      "subject_description": "The main subjects in this picture are a bird and a flower. The most important interaction is the bird flying over the flower.",
+      "striking_details": "red, black, splatter, brushstroke, color",
+      "status": "success"
+    },
+    {
+      "image_name": "hans-hofmann_the-wind-1942.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of blue and black colors.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction is the interplay of colors and textures, creating a sense of depth and movement.",
+      "striking_details": "abstract art, blue background, white and black lines, splattered paint, abstract shapes",
+      "status": "success"
+    },
+    {
+      "image_name": "henri-michaux_untitled-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and splatters of paint. The most important interaction in the picture is the interplay of colors and textures, creating a visually engaging composition.",
+      "striking_details": "black, white, splatter, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "henri-michaux_untitled-1979.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are the black and brown brushstrokes. The most important interaction is the interplay of these brushstrokes, creating a sense of depth and texture.",
+      "striking_details": "black, ink, brushstrokes, texture, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_alchemy-1947(2).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of dark and light colors creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay of colors and textures, creating a visually engaging composition.",
+      "striking_details": "brush strokes, abstract, colorful, texture, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_autumn-rhythm-number-30-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_black-white-number-20-1951.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_blue-poles-number-11-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and brushstrokes.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction is the interplay of colors and textures, creating a visually engaging composition.",
+      "striking_details": "abstract, brushstrokes, colorful, texture, modern",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_cathedral-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines in black and white. The most important interaction in the picture is the interplay of these shapes and lines, creating a sense of depth and movement.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_composition-white-black-blue-and-red-on-white-1948.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "Abstract art, brush strokes, black and white, texture, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_composition-with-pouring-ii(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bold colors and expressive brushstrokes.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with a predominance of black and white colors. The most important interaction in the picture is the interplay between the shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "brush strokes, splatters, abstract shapes, bold colors, black and white",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_convergence-1952.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bright and dark colors.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines in various colors. The most important interaction in the picture is the interplay of colors and forms, creating a dynamic and visually engaging composition.",
+      "striking_details": "Abstract art, colorful, brushstrokes, splatter, modern",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_enchanted-forest-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and forms.",
+      "striking_details": "black, red, white, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_eyes-in-the-heat-1946(2).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and shapes that create a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and colors. The most important interaction in the picture is the interplay of these shapes and colors, creating a visually engaging composition.",
+      "striking_details": "abstract, brushstrokes, colorful, chaotic, expressionism",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_full-fathom-five(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a mix of orange, blue, and green hues.",
+      "subject_description": "The main subjects in this picture are abstract shapes and colors. The most important interaction is the interplay of colors and textures, creating a visually striking composition.",
+      "striking_details": "bone, paint, brush, canvas, color",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_galaxy-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and vibrant, with a mix of bright and dark colors creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and colors. The most important interaction in the picture is the interplay of colors and shapes, creating a dynamic and visually engaging composition.",
+      "striking_details": "brushstrokes, splatters, abstract, colorful, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_lucifer-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are the black lines and dots that create an abstract pattern. The most important interaction in this picture is the interplay of colors and shapes, which gives the artwork its unique visual appeal.",
+      "striking_details": "black, brushstrokes, texture, abstract, color",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_mural-on-indian-red-ground-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and lines that create a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "abstract, brushstrokes, colorful, chaotic, expressionism",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_no-1-1948(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "brush strokes, abstract, colorful, texture, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_not_detected_185311.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-1(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay between the colors and the arrangement of the shapes.",
+      "striking_details": "black, white, yellow, brushstrokes, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-1-lavender-mist(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of dark and light colors creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are the abstract shapes and lines. The most important interaction in the picture is the interplay of colors and textures, creating a visually engaging composition.",
+      "striking_details": "black, white, paint, canvas, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-10-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, and the most important interaction is the interplay of colors and forms.",
+      "striking_details": "Abstract art, colorful, brushstrokes, abstract expressionism, modern art",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-12-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bold colors and splattered paint.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a focus on black and white colors. The most important interaction in the picture is the interplay between the different shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "abstract art, splatter, brush strokes, colorful, chaotic",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-13a-arabesque-1948.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-17-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of green and black colors.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a focus on green and black colors. The most important interaction in the picture is the interplay between the different shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "Abstract art, brush strokes, black paint, green paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-23(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay of black and white colors, creating a sense of depth and dimension.",
+      "striking_details": "black and white, abstract, brushstrokes, texture, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-25(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and vibrant, with a mix of red, black, and yellow colors.",
+      "subject_description": "The main subjects of the picture are the abstract shapes and lines. The most important interaction is the interplay of colors and textures, creating a visually dynamic composition.",
+      "striking_details": "red, black, yellow, white, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-26-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bold colors and splattered paint.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines in black, yellow, and red. The most important interaction in the picture is the interplay of these shapes and lines, creating a dynamic and visually engaging composition.",
+      "striking_details": "black, yellow, red, white, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-29-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, predominantly in black and white. The most important interaction in the picture is the interplay of these shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "black, white, paint, splatter, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-3(2).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and lines that create a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a variety of colors such as orange, yellow, and black. The most important interaction in the picture is the interplay between these shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "abstract art, brush strokes, colorful, modern, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-3(3).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bold colors and splattered paint.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines, with a predominance of black, white, and red colors. The most important interaction in the picture is the interplay between these shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "black, white, red, yellow, blue, paint, splatter, brushstroke, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-32-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, which interact with each other to create a sense of movement and energy.",
+      "striking_details": "black, ink, splatter, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-4-1951.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and shapes that create a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are abstract shapes and lines. The most important interaction is the interplay of colors and textures, creating a dynamic and visually engaging composition.",
+      "striking_details": "abstract, brushstrokes, splatter, colorful, chaotic",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-4-gray-and-red-1948.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction is the interplay of black and red ink, creating a dynamic and intriguing visual experience.",
+      "striking_details": "abstract, lines, splatters, black, red",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-6-1949(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of dark and light colors creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, which interact with each other to create a complex and dynamic composition. The most important interaction is the interplay between the black and white elements, which creates a sense of depth and movement within the artwork.",
+      "striking_details": "black, white, yellow, red, green",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-7-out-of-the-web-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and shapes.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "Abstract, colorful, brushstrokes, texture, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-8-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of bold colors and splattered paint.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "Abstract art, colorful, brushstrokes, splatter, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_number-8-detail(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and vibrant, with a mix of colors and textures.",
+      "subject_description": "The main subjects of this picture are abstract shapes and colors, with a focus on black, white, and orange. The most important interaction in the picture is the interplay between these colors and shapes, creating a visually striking and dynamic composition.",
+      "striking_details": "black, white, orange, red, yellow",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_one-number-31-1950.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction in the picture is the interplay of colors and textures, creating a visually engaging composition.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_reflections-of-the-big-dipper-1947.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and shapes that create a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are the intersecting lines and splatters of paint. The most important interaction in the picture is the way the lines and splatters of paint create a sense of movement and energy.",
+      "striking_details": "black, yellow, red, green, blue, white, paint, canvas, abstract, splatter, brushstroke, texture, color, art, modern, expressionism",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_shimmering-substance(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and vibrant, with a mix of bright colors and abstract shapes.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a variety of colors. The most important interaction in the picture is the interplay of these shapes and lines, creating a sense of movement and rhythm.",
+      "striking_details": "abstract, brushstrokes, colorful, chaotic, abstract expressionism",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_summertime-number-9a-1948.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines. The most important interaction is the interplay of colors and forms, creating a sense of movement and rhythm.",
+      "striking_details": "Abstract art, colorful, brush strokes, abstract expressionism, modern art",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_untitled-1951-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are the black ink drawings on a beige background. The most important interaction in the picture is the interplay between the ink and the paper, creating a sense of movement and texture.",
+      "striking_details": "black ink, paper, scribbles, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_untitled-green-silver-1949.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of colors and textures.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a variety of colors including white, black, orange, and yellow. The most important interaction in the picture is the interplay of these shapes and lines, creating a dynamic and visually engaging composition.",
+      "striking_details": "abstract art, splatter, colorful, brush strokes, modern",
+      "status": "success"
+    },
+    {
+      "image_name": "jackson-pollock_yellow-islands(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of this picture are abstract shapes and lines, with the most important interaction being the interplay of black and white colors.",
+      "striking_details": "black, white, paint, canvas, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_aritic-1959.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "Abstract art, brush strokes, colorful, splatter, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_mathematics-1962.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of bold colors and splattered paint.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a predominance of red, black, and white colors. The most important interaction in the picture is the interplay of these shapes and lines, creating a sense of movement and dynamism.",
+      "striking_details": "red, white, black, yellow, brushstroke",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_untitled-1957.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of movement and energy due to the splattered paint.",
+      "subject_description": "The main subjects of the picture are the splashes of color and the drips of paint. The most important interaction in the picture is the interplay between the colors and the drips, creating a dynamic and abstract visual effect.",
+      "striking_details": "colors, splatters, brushstrokes, texture, vibrancy",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_untitled-1959.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and intense, with splashes of red and black paint creating a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and splatters of paint. The most important interaction in the image is the interplay of colors and textures, creating a visually striking composition.",
+      "striking_details": "red, white, black, splatter, drip",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_untitled-1960.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with splashes of color and a sense of movement.",
+      "subject_description": "The main subjects in the picture are abstract shapes and splatters of paint. The most important interaction is the interplay of colors and textures, creating a dynamic and visually engaging composition.",
+      "striking_details": "blue, splatter, white, red, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "norman-bluhm_untitled-1962.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with bold splashes of color and a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and splatters of paint. The most important interaction in the picture is the interplay of colors and textures, creating a dynamic and visually engaging composition.",
+      "striking_details": "black, yellow, red, paint, splatter",
+      "status": "success"
+    },
+    {
+      "image_name": "tsuruko-yamazaki_work-1957.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are splashes of color, likely from paint, on a white background. The most important interaction in the picture is the interplay of colors, creating a vibrant and dynamic visual effect.",
+      "striking_details": "colors, splatters, brushstrokes, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "walasse-ting_gauguin-ting-1976.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a woman and a flower. The most important interaction in the image is the woman's hand touching her face.",
+      "striking_details": "flowers, paint splatters, woman, bed, colors",
+      "status": "success"
+    },
+    {
+      "image_name": "walasse-ting_goya-s-lover-1977.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, with a focus on color and the human form.",
+      "subject_description": "The main subjects in this picture are a woman and a cat. The most important interaction is the woman's gaze directed towards the cat.",
+      "striking_details": "cat, woman, flowers, paint splatters",
+      "status": "success"
+    },
+    {
+      "image_name": "walasse-ting_it-is-very-hot-here-1986.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant, colorful, and whimsical, with a sense of playfulness and fantasy.",
+      "subject_description": "The main subjects in this picture are a woman and a cat. The most important interaction in the picture is the woman lying down with the cat, both surrounded by a vibrant and colorful background.",
+      "striking_details": "flowers, lips, eyes, paint",
+      "status": "success"
+    },
+    {
+      "image_name": "walasse-ting_two-angels.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of whimsy and playfulness.",
+      "subject_description": "The main subjects in the picture are two faces, each with a flower on their head. The most important interaction in the image is the overlapping of the two faces, creating a sense of unity or connection between them.",
+      "striking_details": "flowers, paint, colors, brushstrokes, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "walasse-ting_venus-1980.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a sense of whimsy and playfulness.",
+      "subject_description": "The main subjects in this picture are a woman and flowers. The most important interaction is the woman holding a flower, which is a common theme in art.",
+      "striking_details": "flowers, leaves, paint splatters, green, yellow",
+      "status": "success"
+    }
+  ]
+}

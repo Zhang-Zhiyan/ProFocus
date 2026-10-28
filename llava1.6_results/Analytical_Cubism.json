@@ -1,0 +1,786 @@
+{
+  "folder_name": "Analytical_Cubism",
+  "processed_date": "2025-12-29 15:36:30",
+  "model": "llava-v1.6-mistral-7b-hf",
+  "processing_mode": "batch_8",
+  "total_images": 110,
+  "successful": 110,
+  "failed": 0,
+  "success_rate": "100.0%",
+  "processing_time_seconds": 241.66,
+  "processing_time_formatted": "0:04:01",
+  "avg_time_per_image": 2.2,
+  "images_per_second": 0.455,
+  "analyses": [
+    {
+      "image_name": "albert-gleizes_acrobats-1916.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and vibrant, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a variety of objects, including a bowl, a spoon, and a fish. The most important interaction in the picture is the bowl and the spoon, as they are placed next to each other and appear to be in close proximity.",
+      "striking_details": "red, yellow, green, blue, brown, white, fish, bowl, spoon, hat, umbrella, polka dot, stripes, geometric shapes, abstract, cubism, surrealism, still life, painting, art",
+      "status": "success"
+    },
+    {
+      "image_name": "albert-gleizes_portrait-of-igor-stravinsky-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a man in a suit and a woman in a dress. The most important interaction is the man holding a white paper with musical notes on it, suggesting a connection to music.",
+      "striking_details": "music, suit, tie, hat, paper",
+      "status": "success"
+    },
+    {
+      "image_name": "albert-gleizes_woman-with-animals-1914.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are a person and a horse. The most important interaction is the person riding the horse, guiding it through the landscape.",
+      "striking_details": "abstract, shapes, colors, art, painting",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_a-girl(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are a person and a dog. The most important interaction depicted is the person holding the dog's tail.",
+      "striking_details": "brush, canvas, paint, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_bottle-and-fishes-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on cubes. The most important interaction is the interplay of light and shadow, creating a sense of depth and dimension.",
+      "striking_details": "building, paper, wall, window",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_castle-at-la-roche-guyon-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and perspective. The use of color and brushwork adds to the dreamlike quality of the artwork.",
+      "subject_description": "The main subjects in this picture are a castle and a forest. The most important interaction is the castle's reflection in the water, creating a mirror image that adds depth and intrigue to the scene.",
+      "striking_details": "castle, trees, rocks, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_clarinet-and-bottle-of-rum-on-a-mantelpiece-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "The image is abstract, so it's difficult to provide specific details. However, I can provide some general elements that might be present in an abstract artwork:\n\n1. Color\n2. Shape\n3. Line\n4. Texture\n5. Form",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_fruitdish-and-glass-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a focus on geometric forms. The most important interaction in the picture is the interplay between the lines and shapes, creating a sense of depth and dimension.",
+      "striking_details": "wood, lines, shapes, text, bar",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_glass-on-a-table.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with the most important interaction being the interplay of colors and textures.",
+      "striking_details": "brush, canvas, paint, art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_glasses-and-bottle-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and complexity.",
+      "subject_description": "The main subjects in this picture are various objects and shapes, possibly including letters and numbers, arranged in a chaotic manner. The most important interaction in the picture is the interplay of these elements, creating a sense of complexity and disorder.",
+      "striking_details": "abstract art, black and white, geometric shapes, intricate patterns, modern style",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_guitar-and-fruit-dish-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and cluttered, with a focus on the interplay of shapes and colors.",
+      "subject_description": "The main subjects in this picture are a bowl, a plate, and a guitar. The most important interaction is the guitar leaning against the bowl, which is placed on the plate.",
+      "striking_details": "bowl, fruit, spoon, plate, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_harbor-in-normandy-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a boat and a lighthouse. The most important interaction in the picture is the boat's position in the foreground, which draws the viewer's attention and creates a sense of depth and perspective.",
+      "striking_details": "sail, boat, building, mountain, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_homage-to-j-s-bach-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are the buildings and the text \"BACH JS\". The most important interaction is the juxtaposition of the text with the buildings, creating a visual connection between the two.",
+      "striking_details": "Bach, music, notes, melody, harmony",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_houses-at-estaque-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are a tree and a cityscape. The most important interaction is the tree's shadow on the buildings, creating a sense of depth and perspective.",
+      "striking_details": "tree, buildings, leaves, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_le-sacre-coeur-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of depth and complexity.",
+      "subject_description": "The main subjects of the picture are geometric shapes and buildings, with the most important interaction being the interplay of light and shadow on the buildings.",
+      "striking_details": "buildings, cubes, shapes, lines, colors",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_man-with-a-guitar-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and lines creating a sense of complexity and intrigue.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, which interact to create a complex and abstract composition. The most important interaction is the interplay between the shapes and lines, which gives the artwork its unique character and visual interest.",
+      "striking_details": "abstract, geometric, shapes, lines, colors",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_man-with-a-violin-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a table and a chair, with the table being the most important interaction. The art style is abstract, and the medium appears to be oil on canvas. The image is a circular composition, which adds a unique visual element.",
+      "striking_details": "buildings, table, chair, plate, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_pedestal-table-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on a boat. The most important interaction is the interplay of these shapes and lines, creating a sense of depth and perspective.",
+      "striking_details": "boat, table, chair, building",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_pedestal-table-stal-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a dreamlike quality.",
+      "subject_description": "The main subjects in the picture are a building and a tree. The most important interaction is the tree growing in front of the building, providing shade and a connection to nature.",
+      "striking_details": "The image is a painting, featuring a variety of objects and text. It includes a clock, a building, a boat, a tree, and a sign.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_portrait-of-a-woman.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a person and a bird. The most important interaction is the person holding the bird.",
+      "striking_details": "brushstrokes, abstract, geometric, color, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_portuguese-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a person and a chair. The most important interaction in the picture is the person sitting on the chair.",
+      "striking_details": "umbrella, building, chair, table, clock",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_rooftops-at-ceret-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of urban decay.",
+      "subject_description": "The main subjects in this picture are geometric shapes and buildings. The most important interaction is the interplay between the geometric shapes and the buildings, creating a sense of depth and perspective.",
+      "striking_details": "building, brick, paint, texture, color",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-a-bunch-of-grapes-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes and letters. The most important interaction is the interplay between the shapes and the letters, creating a visually engaging composition.",
+      "striking_details": "Sure, here are five key visual details of the image:\n\n1. Grapes,\n2. Words,\n3. Abstract shapes,\n4. Color,\n5. Texture.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-a-pair-of-banderillas-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are a boat and a building, with the boat being the most prominent. The most important interaction depicted is the boat's reflection on the water, creating a mirror image.",
+      "striking_details": "The image is abstract, so it's difficult to provide specific details. However, I can describe some general elements: buildings, boats, people, trees, and sky.",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-a-violin-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are a bicycle and a building. The most important interaction is the bicycle leaning against the building, with the rider taking a break.",
+      "striking_details": "abstract, art, building, brick, color",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_still-life-with-harp-and-violin-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are abstract shapes and lines, with a focus on geometric forms. The most important interaction in the picture is the interplay of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "abstract art, geometric shapes, lines, colors, composition",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-bottle-of-rum-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects of the picture are various geometric shapes and objects, including letters and numbers. The most important interaction in the picture is the overlapping and interlocking of these shapes and objects, creating a complex and intricate composition.",
+      "striking_details": "buildings, letters, shapes, colors, patterns",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-candlestick-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and lines.",
+      "subject_description": "The main subjects in this picture are a bowl, a candle, and a spoon. The most important interaction is the candle's reflection on the bowl, creating a visual connection between the two objects.",
+      "striking_details": "bowl, candle, table, brush",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-castle-in-la-roche-guyon-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and picturesque, with a focus on the natural beauty of the landscape.",
+      "subject_description": "The main subjects in the picture are houses and trees. The most important interaction is the interplay of light and shadow on the houses and trees, creating a sense of depth and dimension.",
+      "striking_details": "houses, trees, buildings, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-city-on-the-hill-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on the interplay of light and shadow.",
+      "subject_description": "The main subjects in this picture are a tree, a building, and a landscape. The most important interaction is the interplay between the tree and the landscape, as the tree appears to be growing out of the landscape, creating a sense of harmony between nature and the built environment.",
+      "striking_details": "buildings, trees, sky, leaves",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-mandola-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and intricate, with a focus on geometric shapes and a warm, earthy color palette.",
+      "subject_description": "The main subjects in this picture are a guitar and a cityscape. The most important interaction is the guitar's neck and strings, which are intertwined with the geometric shapes of the cityscape.",
+      "striking_details": "guitar, cubism, abstract, geometric, brown",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_the-pitcher-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a vase and a banana. The most important interaction is the vase being placed on top of the banana.",
+      "striking_details": "banana, cup, bowl, brushstroke, color",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-candlestick-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are a vase, a bottle, and a wine glass. The most important interaction is the interplay of light and shadow on the objects, creating a sense of depth and dimension.",
+      "striking_details": "brush, canvas, paint, art",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-clarinet-on-a-table-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects of the picture are a bicycle and a person, with the bicycle being the most prominent object. The most important interaction in the picture is the person holding the bicycle.",
+      "striking_details": "wood, paint, brush, canvas, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-jug-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a violin and a vase. The most important interaction is the violin playing music, as indicated by the bow and the strings. The vase is also present, but it does not interact with the violin.",
+      "striking_details": "vase, music stand, violin, bow, brush",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-palette-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a sense of disarray.",
+      "subject_description": "The main subjects in this picture are a violin and a cello, which are depicted in a cubist style. The most important interaction in the picture is the interplay of light and shadow, creating a sense of depth and dimension.",
+      "striking_details": "violin, music stand, sheet music, paper, abstract",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-and-pitcher-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are a violin and a vase. The most important interaction is the violin playing music, which is depicted in the image.",
+      "striking_details": "violin, music stand, sheet music, abstract art, cubism",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_violin-mozart-kubelick-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are a person and a horse, with the person holding the horse's head. The most important interaction in the picture is the person's hand on the horse's head, suggesting a connection or control between them.",
+      "striking_details": "Mozart, Kubelick, painting, abstract, modern",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_woman-reading-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, with a focus on a central figure that appears to be a woman. The most important interaction in the picture is the interplay between the geometric shapes and the lines, creating a sense of depth and complexity.",
+      "striking_details": "Building, brick, wall, window, door",
+      "status": "success"
+    },
+    {
+      "image_name": "georges-braque_woman-with-a-mandolin-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of complexity and intrigue.",
+      "subject_description": "The main subjects of the picture are geometric shapes and lines, with the most important interaction being the interplay of light and shadow, creating a sense of depth and dimension.",
+      "striking_details": "cubes, shadows, lines, shapes, colors",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_femme-au-chapeau-rose-et-collier-de-perles-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a woman and a bird. The most important interaction is the woman's hat, which is adorned with a feather that resembles the bird.",
+      "striking_details": "fur, hat, pearls, checkered pattern, diamond pattern",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_l-oiseau-bleu-the-blue-bird-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric and organic shapes.",
+      "subject_description": "The main subjects in this picture are a woman and a bird. The most important interaction is the woman feeding the bird.",
+      "striking_details": "umbrella, bird, boat, building, person",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_la-femme-au-cheval-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and dreamlike, featuring a woman playing a violin amidst a chaotic, fragmented landscape.",
+      "subject_description": "The main subjects in this picture are a woman and a bird. The most important interaction is the woman playing a lute, with the bird perched nearby.",
+      "striking_details": "woman, vase, flowers, tree, house",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_le-go-ter-1911(1).jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and abstract, featuring a woman in a cubist style.",
+      "subject_description": "The main subjects in this picture are a woman and a cup of coffee. The most important interaction is the woman holding the cup of coffee.",
+      "striking_details": "woman, spoon, cup, table, bowl",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_nature-morte-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is a blend of still life and cubism, creating a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a still life of various objects, including a vase, a bowl, a wine glass, and a bottle. The most important interaction in the picture is the interplay of light and shadow, creating a sense of depth and texture.",
+      "striking_details": "bowl, vase, fruit, wine glass, table",
+      "status": "success"
+    },
+    {
+      "image_name": "jean-metzinger_nu-la-chemin-e-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a sense of mystery and intrigue.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "geometric shapes, black and white, abstract, lines, shapes",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_bottles-and-knife-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a bottle, a wine glass, and a bowl. The most important interaction is the placement of the wine glass next to the bottle, suggesting a drink being served or consumed.",
+      "striking_details": "bottle, glass, table, knife, fork",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-glass-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and patterns.",
+      "subject_description": "The main subjects in this picture are a guitar, a cup, and a book. The most important interaction is the guitar playing the book, which is a visual representation of music.",
+      "striking_details": "guitar, music notes, cup, bowl, spoon",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_guitar-and-glasses-banjo-and-glasses-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a guitar, a wine glass, and a book. The most important interaction is the guitar leaning against the book, suggesting a connection between music and literature.",
+      "striking_details": "guitar, music stand, paper, pencil, book",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_man-in-the-cafe-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and artistic, featuring a man in a top hat sitting at a table with a martini glass.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction is the man holding a wine glass, which is a significant element in the composition.",
+      "striking_details": "hat, tie, glass, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_not_detected_207834.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms. The use of bold colors and the juxtaposition of different elements create a sense of intrigue and mystery.",
+      "subject_description": "The main subjects in this picture are a violin, a wine glass, and a bottle. The most important interaction is the violin playing music, which is depicted in the image.",
+      "striking_details": "guitar, violin, wine glass, bottle, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_portrait-of-germaine-raynal-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a fragmented representation of a woman's face.",
+      "subject_description": "The main subjects of the picture are a woman and a building. The most important interaction in the picture is the woman's gaze directed towards the building.",
+      "striking_details": "buildings, woman, glasses, brick, sky",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_portrait-of-maurice-raynal-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is somber and introspective, with a focus on the man's face and expression.",
+      "subject_description": "The main subjects in the picture are a man and a woman. The most important interaction is the man looking at the woman, as indicated by the positioning and the direction of their gazes.",
+      "striking_details": "The image is a painting, featuring a man with glasses, a hat, and a beard. The background is abstract and dark, with a hint of a chair. The man's expression is serious.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_portrait-of-pablo-picasso-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a man and a dog. The most important interaction is the man holding the dog.",
+      "striking_details": "The image is a cubist portrait, featuring a man, a suit, a tie, a hat, and a dog.",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_portrait-of-the-artist-s-mother-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in the picture are geometric shapes. The most important interaction is the overlapping and interlocking of the shapes, creating a sense of depth and dimension.",
+      "striking_details": "geometric shapes, abstract, lines, angles, shades",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-flowers-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring geometric shapes and a guitar, creating a sense of intrigue and mystery.",
+      "subject_description": "The main subjects in this picture are a guitar, a bowl, and a fruit. The most important interaction is the guitar leaning against the bowl, which is placed on a table.",
+      "striking_details": "guitar, bowl, fruit, table",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-guitar-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a guitar, a bowl, and a chair. The most important interaction is the guitar leaning against the wall, with the bowl and chair nearby.",
+      "striking_details": "guitar, music stand, chair, table, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_still-life-with-oil-lamp-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are abstract shapes and forms, possibly representing vases or bowls. The most important interaction in the image is the interplay of light and shadow, creating a sense of depth and dimension.",
+      "striking_details": "vase, bowl, shadow, line, color",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-packet-of-cigars-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a martini glass, a knife, and a pair of scissors. The most important interaction is the knife and scissors cutting into the martini glass.",
+      "striking_details": "martini glass, knife, scissors, box, staircase",
+      "status": "success"
+    },
+    {
+      "image_name": "juan-gris_the-watch-the-sherry-bottle-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in this picture are a clock, a cup, and a bowl. The most important interaction is the clock's position in the center of the composition, drawing the viewer's attention.",
+      "striking_details": "The image is a cubist painting, featuring geometric shapes and a limited color palette. It depicts a still life with objects such as a vase, a clock, and a book. The painting is characterized by its abstract and fragmented style, with a focus on geometric forms and a sense of depth and perspective.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_a-glass-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and lines.",
+      "subject_description": "The main subjects in this picture are a building and a boat. The most important interaction is the boat's reflection on the water in front of the building.",
+      "striking_details": "building, boat, stairs, railing, wall",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bathers-drying-themselves-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on color and form.",
+      "subject_description": "The main subjects in the picture are two people. The most important interaction is one person holding a cloth over the other person's head.",
+      "striking_details": "brush, canvas, color, form",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bathers-in-the-forest-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and intimate, with a focus on the human form and the natural environment.",
+      "subject_description": "The main subjects of the picture are three figures, possibly people, depicted in an abstract style. The most important interaction appears to be the one between the figures, as they are positioned close to each other, suggesting a sense of connection or relationship.",
+      "striking_details": "tree, people, towel, water, boat",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bathing-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on nature and the interplay of colors.",
+      "subject_description": "The main subjects in this picture are a bird and a fish, with the most important interaction being the bird pecking at the fish.",
+      "striking_details": "tree, leaves, branches, trunk, background",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_bread-and-dish-with-fruits-on-the-table.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is vibrant and colorful, with a focus on still life elements.",
+      "subject_description": "The main subjects in this picture are a bowl of fruit, a carrot, and a knife. The most important interaction is the knife resting on the carrot, suggesting preparation for a meal.",
+      "striking_details": "bowl, fruit, bananas, lemon, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_clarinet-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects of the picture are geometric shapes and lines, with a focus on a central figure that appears to be a person. The most important interaction in the picture is the interplay of these geometric shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "triangle, circle, line, shape, color",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_clarinetist.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a person and a guitar. The most important interaction is the person playing the guitar.",
+      "striking_details": "brush, canvas, paint, art",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_dance-of-the-veils-1907.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a sense of movement and energy.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines. The most important interaction is the interplay between the shapes and lines, creating a sense of depth and dimension.",
+      "striking_details": "Abstract art, geometric shapes, bold colors, intricate patterns, modern style",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_female-nude.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a woman and a chair. The most important interaction is the woman's hand resting on the chair's armrest.",
+      "striking_details": "chair, arm, face, color",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_friendship-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are two figures, possibly a man and a woman, depicted in a cubist style. The most important interaction in the image is the man holding the woman's hand, suggesting a close relationship between them.",
+      "striking_details": "The image is a painting, featuring a figure, a hat, a hand, a face, and a blue object.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_girl-with-mandolin-fanny-tellier-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and artistic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a person playing a guitar and a bird. The most important interaction is the person playing the guitar, which is depicted in a cubist style.",
+      "striking_details": "guitar, cubism, abstract, geometric, monochromatic",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-and-violin.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, featuring geometric shapes and a mix of colors.",
+      "subject_description": "The main subjects in this picture are a sink, a toilet, and a bathtub. The most important interaction in the picture is the sink being placed next to the toilet.",
+      "striking_details": "building, door, sink, stairs, vase",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_guitar-player-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, which interact to create a sense of depth and complexity. The most important interaction is the interplay between the shapes and lines, creating a dynamic and intriguing visual experience.",
+      "striking_details": "buildings, stairs, triangles, lines, shadows",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_harlequin-leaning-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is contemplative and introspective, with a focus on the human figure.",
+      "subject_description": "The main subjects in this picture are a man and a woman. The most important interaction is the man holding the woman's hand.",
+      "striking_details": "The image is a cubist painting, featuring a man, a hat, a pipe, a bottle, and a tree.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_harlequin-s-family-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are abstract shapes and forms, with a focus on geometric and organic elements. The most important interaction in the picture is the interplay between the different shapes and colors, creating a sense of depth and complexity.",
+      "striking_details": "green, brown, white, shapes, lines",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_harlequinesque-personage-1913.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a mix of geometric shapes and organic forms.",
+      "subject_description": "The main subjects in the picture are geometric shapes and lines. The most important interaction is the overlapping and intersecting of these shapes and lines, creating a sense of depth and complexity.",
+      "striking_details": "Abstract, shapes, colors, lines, forms",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_houses-on-the-hill-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and peaceful, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are geometric shapes and buildings, with the most important interaction being the interplay of light and shadow on the buildings and the surrounding landscape.",
+      "striking_details": "buildings, houses, mountains, sky, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_jug-and-fruit-dish-1908.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is warm and inviting, with a focus on still life elements.",
+      "subject_description": "The main subjects in this picture are a vase, a bowl, and a pitcher. The most important interaction is the arrangement of these objects on a table, creating a still life composition.",
+      "striking_details": "vase, bowl, fruit, table, color",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_landscape-with-posters-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are a bottle of alcohol, a box of cigarettes, and a painting. The most important interaction is the juxtaposition of these objects, which creates a unique visual composition.",
+      "striking_details": "bottle, paint, wall, brush, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_man-with-a-guitar-1911-1.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of disarray and fragmentation.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, which are arranged in a way that creates a sense of depth and perspective. The most important interaction in the picture is the interplay between the shapes and lines, which creates a sense of movement and dynamism.",
+      "striking_details": "cubes, shapes, lines, colors, textures",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_man-with-a-guitar-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of chaos and complexity.",
+      "subject_description": "The main subjects of the picture are geometric shapes and lines, with a focus on a central figure that appears to be a person. The most important interaction in the picture is the interplay between the geometric shapes and the lines, creating a sense of depth and perspective.",
+      "striking_details": "house, boat, tree, sky, clouds",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_man-with-guitar-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a person and a bottle. The most important interaction is the person holding the bottle.",
+      "striking_details": "The image is a cubist painting, featuring geometric shapes, abstract forms, and a limited color palette. It depicts a figure, possibly a man, with a bottle and a book. The style is characterized by fragmented forms and a focus on geometric shapes.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_my-beautiful-woman-with-guitar-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and lines that create a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are geometric shapes and lines. The most important interaction is the interplay of lines and shapes, creating a sense of depth and dimension.",
+      "striking_details": "geometric shapes, lines, angles, contrast, texture",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_nude-figure.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a person sitting in a chair, holding a hat. The most important interaction is the person's hand holding the hat, which is a significant element in the composition.",
+      "striking_details": "chair, wall, pattern, color, shape",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_poet-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects of the picture are geometric shapes and lines, which are arranged in a way that creates a sense of depth and perspective. The most important interaction in the picture is the interplay between the shapes and lines, which creates a complex and intriguing visual experience.",
+      "striking_details": "buildings, shapes, lines, colors",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_portrait-of-ambroise-vollard-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in the picture are a person and a book. The most important interaction is the person holding the book, reading it, and being immersed in the story.",
+      "striking_details": "The image features a man, a cup, a bottle, a book, and a vase.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_portrait-of-daniel-henry-kahnweiler-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "geometric, cubist, abstract, monochromatic, surreal",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_seated-female-nude-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and somewhat chaotic, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are a woman and a chair. The most important interaction in the picture is the woman holding the chair.",
+      "striking_details": "chair, cubism, geometric, abstract, color",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_souvenir-from-havre-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a staircase and a cup. The most important interaction is the staircase leading to the cup, suggesting a journey or exploration.",
+      "striking_details": "Abstract art, geometric shapes, monochromatic color scheme, intricate patterns, modern style",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_spanish-still-life-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of geometric shapes and text.",
+      "subject_description": "The main subjects in this picture are various objects, including a bottle, a cup, and a vase. The most important interaction in the picture is the arrangement of these objects, creating a sense of depth and perspective.",
+      "striking_details": "The image is a painting, featuring a still life composition. It contains objects such as a bottle, a cup, a vase, and a book. The painting is characterized by its cubist style, which is evident in the geometric shapes and the use of bold colors.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-on-the-piano-cort-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and lines.",
+      "subject_description": "The main subjects in this picture are a bicycle, a chair, and a table. The most important interaction in the picture is the bicycle leaning against the table, with the chair positioned nearby.",
+      "striking_details": "The image is a painting, featuring a cityscape. It includes buildings, a bicycle, a clock, and a person.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-with-bottle-of-anis-del-mono-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a boat and a bird, both depicted in a cubist style. The most important interaction in the picture is the bird perched on the boat, which is a common theme in art, symbolizing freedom and exploration.",
+      "striking_details": "boat, book, mountain, fish, basket",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-with-bottle-of-rum-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a dreamlike quality.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "abstract, shapes, colors, patterns, forms",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_still-life-with-the-caned-chair-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth.",
+      "subject_description": "The main subjects in this picture are a person and a violin. The most important interaction is the person playing the violin, as indicated by the bow in the person's hand.",
+      "striking_details": "Joy, rope, circle, painting, rope",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_study-to-girls-from-avignon-1906.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is artistic and intimate, featuring a group of women in a room.",
+      "subject_description": "The main subjects in this picture are four women, with one of them sitting on a chair. The most important interaction appears to be a conversation or discussion among the women.",
+      "striking_details": "woman, dress, chair, mirror, frame",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_table-in-a-cafe-bottle-of-pernod-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and complexity.",
+      "subject_description": "The main subjects in this picture are a cup and a spoon, which are depicted in a cubist style. The most important interaction in the picture is the overlapping of the cup and the spoon, creating a sense of depth and complexity.",
+      "striking_details": "The image is a cubist artwork featuring a still life. It includes a vase, a cup, a bowl, and a book. The colors are predominantly orange, green, and brown.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-aficionado-the-torero-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and lines creating a sense of complexity and disorder.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "The image is abstract, so it's difficult to provide specific details without interpreting the artwork. However, I can provide a list of common elements found in abstract art:\n\n1. Color\n2. Shape\n3. Line\n4. Texture\n5. Form",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-chess-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a mix of geometric shapes and lines creating a sense of movement and complexity.",
+      "subject_description": "The main subjects in this picture are geometric shapes and abstract forms. The most important interaction is the interplay between the shapes and the viewer's perception, as the image is highly abstract and open to interpretation.",
+      "striking_details": "buildings, cups, bowls, windows, chairs",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-mandolinist-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a table and a bowl. The most important interaction is the bowl sitting on the table.",
+      "striking_details": "abstract, shapes, colors, patterns, textures",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-piano-accordionist-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and chaotic, with a sense of movement and energy.",
+      "subject_description": "The main subjects in the picture are a person and a bird. The most important interaction is the person standing on the ground, looking up at the bird flying in the sky.",
+      "striking_details": "Abstract, shapes, colors, lines, forms",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-pigeon-pea-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects in this picture are a cup, a spoon, and a bowl. The most important interaction is the spoon resting on the bowl.",
+      "striking_details": "Cafe, painting, abstract, cubist, modern",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_the-shell-saint-jacques-our-future-is-in-the-air-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects in this picture are a variety of objects, including a bottle, a book, and a bird. The most important interaction in the picture is the interplay of colors and shapes, creating a sense of depth and perspective.",
+      "striking_details": "Joy, Notre Dame, Av, Jou,",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_violin-glass-pipe-and-inkwell-1912.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a mix of different shapes and colors creating a sense of disorder and complexity.",
+      "subject_description": "The main subjects in the picture are various objects and letters. The most important interaction is the arrangement of these objects and letters, creating a sense of chaos and disarray.",
+      "striking_details": "The image is a circular painting with a collage-like style, featuring various objects and text. It includes a chair, a cup, a bottle, a book, and a clock.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_william-uhde-1910.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and modern, featuring geometric shapes and a limited color palette.",
+      "subject_description": "The main subject of the picture is a man, depicted in a cubist style. The most important interaction in the image is the man's gaze, which is directed towards the viewer, creating a sense of engagement and connection.",
+      "striking_details": "The image is a cubist portrait, featuring geometric shapes, a man's face, a hat, and a suit.",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-and-pears-fernande-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is surreal and abstract, with a focus on geometric shapes and a limited color palette.",
+      "subject_description": "The main subjects of the picture are a person and a bowl of fruit. The most important interaction in the picture is the person holding the bowl of fruit.",
+      "striking_details": "fruit, bowl, table, curtain",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-sitting-in-an-armchair.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and surreal, with a focus on geometric shapes and a sense of depth and dimension.",
+      "subject_description": "The main subjects in this picture are a person and a fork. The most important interaction is the person holding the fork.",
+      "striking_details": "Fork, knife, spoon, bowl, table",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-with-a-mandolin-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is serene and artistic, featuring a woman playing a guitar in a room filled with books.",
+      "subject_description": "The main subjects in this picture are a person playing a guitar and a collection of books. The most important interaction is the person's hand on the guitar's neck, indicating the act of playing the instrument.",
+      "striking_details": "guitar, books, chair, apple",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-with-guitar-and-piano-1911.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is chaotic and abstract, with a sense of movement and dynamism.",
+      "subject_description": "The main subjects of the picture are abstract shapes and forms, with a focus on geometric and organic elements. The most important interaction in the picture is the interplay between the different shapes and colors, creating a sense of depth and complexity.",
+      "striking_details": "stairs, cube, spiral, abstract, art",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-with-guitar.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is dark and moody, with a sense of complexity and depth.",
+      "subject_description": "The main subjects in this picture are geometric shapes and lines, which interact with each other to create a complex and intricate composition. The most important interaction is the interplay of these shapes and lines, which gives the artwork its unique character and visual appeal.",
+      "striking_details": "building, wall, brick, paint, canvas",
+      "status": "success"
+    },
+    {
+      "image_name": "pablo-picasso_woman-with-mandolin-1909.jpg",
+      "visual_analysis": "The overall atmosphere of the picture is abstract and colorful, with a focus on geometric shapes and a sense of movement.",
+      "subject_description": "The main subjects in this picture are a violin and a bottle. The most important interaction is the violin playing the bottle, which is a common theme in abstract art.",
+      "striking_details": "guitar, music stand, piano, violin, abstract",
+      "status": "success"
+    }
+  ]
+}
