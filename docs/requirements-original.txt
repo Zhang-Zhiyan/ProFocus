@@ -1,0 +1,16 @@
+torch==1.13.0+cu117
+torchvision==0.14.0+cu117
+transformers==4.45.2
+accelerate==0.12.0
+tensorflow-gpu==2.9.0
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.7.1
+pandas==2.2.3
+pillow
+nltk
+tqdm
+opencv-python==4.8.1.78
+six
+packaging
